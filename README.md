@@ -235,6 +235,12 @@
 - [VirtualHome](http://virtual-home.org/) for Embodied Tasks
 - [Planbench](https://arxiv.org/pdf/2206.10498) for evaluating LLM Planning
 - [RSbench](https://unitn-sml.github.io/rsbench/) A Neuro-Symbolic Benchmark Suite for Concept Quality and Reasoning Shortcuts
+- [AQuA-RAT](https://github.com/google-deepmind/AQuA) Algebra Question Answering with Rationales
+- [Last Letter](https://github.com/kojima-takeshi188/zero_shot_cot/tree/main/dataset)
+- [Date Understanding](https://github.com/google/BIG-bench/tree/main/bigbench/benchmark_tasks/date_understanding) Test the ability of pretrained language models to understand dates by asking the date of a day
+- [CommonsenseQA](https://www.tau-nlp.sites.tau.ac.il/commonsenseqa) Question Answering Challenge Targeting Commonsense Knowledge
+- [GSM8K](https://github.com/openai/grade-school-math) Grade School Math
+- [StrategyQA](https://github.com/google/BIG-bench/tree/main/bigbench/benchmark_tasks/strategyqa) StrategyQA is a question-answering benchmark
 - [FOLIO](https://arxiv.org/abs/2209.00840) Natural Language Reasoning with First-Order Logic
 - [P-FOLIO](https://arxiv.org/abs/2410.09207) Evaluating and Improving Logical Reasoning with Abundant Human-Written Reasoning Chains
   
