@@ -13,8 +13,8 @@
 <ol>
 <li><a href="#awesome-papers">Awesome Papers</a></li>
   <ul>
-    <li><a href="#llm-for-neurol-symbolic-learning">LLM for Neuro-Symbolic Learning</a></li>
     <li><a href="#neuro-symbolic-learning-for-llm-reasoning">Neuro-Symbolic Learning for LLM Reasoning</a></li>
+    <li><a href="#llm-for-neurol-symbolic-learning">LLM for Neuro-Symbolic Learning</a></li>
     <li><a href="#neuro-symbolic-learning-for-math-reasoning">Neuro-Symbolic Learning for Math Reasoning</a></li>
     <li><a href="#neuro-symbolic-learning-for-reinforcement-learning">Neuro-Symbolic Learning for Reinforcement Learning</a></li>
     <li><a href="#neuro-symbolic-learning-for-the-explainable--trustworthy">Neuro-Symbolic Learning for the Explainable & Trustworthy</a></li>
@@ -29,21 +29,10 @@
 
 ## Awesome Papers
 
-### LLM for Neuro-Symbolic Learning
-|  Title  |   Venue  |   Date   |   Code   |
-|:--------|:--------:|:--------:|:--------:|
-|[**Large Language Models Are Neurosymbolic Reasoners**](https://arxiv.org/abs/2401.09334) <br> | AAAI | 2024 | [Github](https://github.com/hyintell/LLMSymbolic) |
-|[**AutoSAT: Automatically Optimize SAT Solvers via Large Language Models**](https://arxiv.org/pdf/2402.10705) <br> | Arxiv | 2024 | - |
-|[**Leveraging Environment Interaction for Automated PDDL Translation and Planning with Large Language Models**](https://openreview.net/pdf?id=RzlCqnncQv) <br> | NeurIPS | 2024 | [Github](https://github.com/BorealisAI/llm-pddl-planning) |
-|[**A Foundation Model for Zero-shot Logical Query Reasoning**](https://openreview.net/pdf?id=JRSyMBBJi6) <br> | NeurIPS | 2024 | - |
-|[**Symbol-LLM: Leverage Language Models for Symbolic System in Visual Human Activity Reasoning**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5edb57c05c81d04beb716ef1d542fe9e-Abstract-Conference.html) <br> | NeurIPS | 2023 |[Github](https://mvig-rhos.com/symbol_llm)|
-|[**Autoformalization with Large Language Models**](https://arxiv.org/abs/2205.12615) <br> | NeurIPS | 2022 | - |
-|[**MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning**](https://arxiv.org/pdf/2205.00445) <br> | Arxiv | 2022 | - |
-|[**Evaluating Large Language Models Trained on Code**](https://arxiv.org/abs/2107.03374) <br> | Arxiv | 2021 | [Github](https://github.com/openai/human-eval) |
-
 ### Neuro-Symbolic Learning for LLM Reasoning
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
+|[**Argumentative Large Language Models for Explainable and Contestable Decision-Making**](https://arxiv.org/abs/2405.02079) <br> | AAAI | 2025 |-|
 |[**Efficient Rectification of Neuro-Symbolic Reasoning Inconsistencies by Abductive Reflection**](https://arxiv.org/pdf/2412.08457) <br> | AAAI | 2025 |-|
 |[**StackSight: Unveiling WebAssembly through Large Language Models and Neurosymbolic Chain-of-Thought Decompilation**](https://openreview.net/forum?id=gn5AsHIIwb) <br> | ICML | 2024 |-|
 |[**Leveraging LLMs for Hypothetical Deduction in Logical Inference: A Neuro-Symbolic Approach**](https://arxiv.org/abs/2410.21779) <br> | Arxiv | 2024 | - |
@@ -79,6 +68,18 @@
 |[**PTR: Prompt Tuning with Rules for Text Classification**](https://arxiv.org/pdf/2105.11259) <br> | Arxiv | 2021 |[Github](https://github.com/thunlp/PTR)|
 |[**A Generative-Symbolic Model for Logical Reasoning in NLU**](https://openreview.net/pdf?id=LucARkxeWoE) <br> | IJCAI Workshop | 2021 | - |
 |[**NeuroLogic Decoding: (Un)supervised Neural Text Generation with Predicate Logic Constraints**](https://arxiv.org/abs/2010.12884) <br> | ACL | 2021 | - |
+
+### LLM for Neuro-Symbolic Learning
+|  Title  |   Venue  |   Date   |   Code   |
+|:--------|:--------:|:--------:|:--------:|
+|[**Large Language Models Are Neurosymbolic Reasoners**](https://arxiv.org/abs/2401.09334) <br> | AAAI | 2024 | [Github](https://github.com/hyintell/LLMSymbolic) |
+|[**AutoSAT: Automatically Optimize SAT Solvers via Large Language Models**](https://arxiv.org/pdf/2402.10705) <br> | Arxiv | 2024 | - |
+|[**Leveraging Environment Interaction for Automated PDDL Translation and Planning with Large Language Models**](https://openreview.net/pdf?id=RzlCqnncQv) <br> | NeurIPS | 2024 | [Github](https://github.com/BorealisAI/llm-pddl-planning) |
+|[**A Foundation Model for Zero-shot Logical Query Reasoning**](https://openreview.net/pdf?id=JRSyMBBJi6) <br> | NeurIPS | 2024 | - |
+|[**Symbol-LLM: Leverage Language Models for Symbolic System in Visual Human Activity Reasoning**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5edb57c05c81d04beb716ef1d542fe9e-Abstract-Conference.html) <br> | NeurIPS | 2023 |[Github](https://mvig-rhos.com/symbol_llm)|
+|[**Autoformalization with Large Language Models**](https://arxiv.org/abs/2205.12615) <br> | NeurIPS | 2022 | - |
+|[**MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning**](https://arxiv.org/pdf/2205.00445) <br> | Arxiv | 2022 | - |
+|[**Evaluating Large Language Models Trained on Code**](https://arxiv.org/abs/2107.03374) <br> | Arxiv | 2021 | [Github](https://github.com/openai/human-eval) |
 
 ### Neuro-Symbolic Learning for Math Reasoning
 |  Title  |   Venue  |   Date   |   Code   |
