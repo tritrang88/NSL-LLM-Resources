@@ -8,6 +8,25 @@
 - 🏗️ **Applications**: Use cases in AI, automated reasoning, expert systems, and more.
 - 🔍 **Survey Papers**: Key review papers and literature surveys on NSL and LLM.
 
+<details>
+<summary>🗂️ <font size="4"><b>Table of Contents</b></font></summary>
+<ol>
+<li><a href="#awesome-papers">Awesome Papers</a></li>
+  <ul>
+    <li><a href="#llm-for-neurol-symbolic-learning">LLM for Neuro-Symbolic Learning</a></li>
+    <li><a href="#neuro-symbolic-learning-for-llm-reasoning">Neuro-Symbolic Learning for LLM Reasoning</a></li>
+    <li><a href="#neuro-symbolic-learning-for-math-reasoning">Neuro-Symbolic Learning for Math Reasoning</a></li>
+    <li><a href="#neuro-symbolic-learning-for-reinforcement-learning">Neuro-Symbolic Learning for Reinforcement Learning</a></li>
+    <li><a href="#neuro-symbolic-learning-for-the-explainable--trustworthy">Neuro-Symbolic Learning for the Explainable & Trustworthy</a></li>
+    <li><a href="#neuro-symbolic-learning-for-visual-reasoning">Neuro-Symbolic Learning for Visual Reasoning</a></li>
+    <li><a href="#basic-neuro-symbolic-frameworks">Basic Neuro-Symbolic Frameworks</a></li>
+  </ul>
+<li><a href="#awesome-tutorials--workshops--talks">Awesome Tutorials & Workshops & Talks</a></li>
+<li><a href="#awesome-survey--books">Awesome Survey</a></li>
+<li><a href="#awesome-datasets--benchmarks">Awesome Datasets & Benchmarks</a></li>
+</ol>
+</details>
+
 ## Awesome Papers
 
 ### LLM for Neuro-Symbolic Learning
@@ -21,7 +40,6 @@
 |[**Autoformalization with Large Language Models**](https://arxiv.org/abs/2205.12615) <br> | NeurIPS | 2022 | - |
 |[**MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning**](https://arxiv.org/pdf/2205.00445) <br> | Arxiv | 2022 | - |
 |[**Evaluating Large Language Models Trained on Code**](https://arxiv.org/abs/2107.03374) <br> | Arxiv | 2021 | [Github](https://github.com/openai/human-eval) |
-
 
 ### Neuro-Symbolic Learning for LLM Reasoning
 |  Title  |   Venue  |   Date   |   Code   |
@@ -80,7 +98,6 @@
 |[**SMT-Solving Induction Proofs of Inequalities**](https://arxiv.org/abs/2307.16761)<br> | Arxiv | 2023 | - |
 |[**Solving Geometry Problems:Combining Text and Diagram Interpretation**](https://aclanthology.org/D15-1171.pdf)<br> | ACL | 2015 | - |
 
-
 ### Neuro-Symbolic Learning for Reinforcement Learning
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
@@ -114,6 +131,59 @@
 |[**Programmatically interpretable reinforcement learning**](http://proceedings.mlr.press/v80/verma18a.html)|ICML|2018|-|
 |[**Modular multitask reinforcement learning with policy sketches**](http://proceedings.mlr.press/v70/andreas17a.html)|ICML|2017|-|
 
+### Neuro-Symbolic Learning for the Explainable & Trustworthy
+|  Title  |   Venue  |   Date   |   Code   |
+|:--------|:--------:|:--------:|:--------:|
+|[**Interpretable Neural-Symbolic Concept Reasoning**](https://proceedings.mlr.press/v202/barbiero23a/barbiero23a.pdf) <br> | ICML | 2023 |-|
+|[**An Interpretable Neuro-Symbolic Reasoning Framework for Task-Oriented Dialogue Generation**](https://arxiv.org/abs/2203.05843) <br> | ACL| 2022 | [Github](https://github.com/shiquanyang/NS-Dial) |
+|[**Bridging the Gap: Providing Post-Hoc Symbolic Explanations for Sequential Decision-Making Problems with Inscrutable Representations**](https://openreview.net/forum?id=o-1v9hdSult)<br> | NeurIPS | 2022 |-|
+
+### Neuro-Symbolic Learning for Visual Reasoning 
+|  Title  |   Venue  |   Date   |   Code   |
+|:--------|:--------:|:--------:|:--------:|
+|[**GENOME: Generative Neuro-Symbolic Visual Reasoning by Growing and Reusing Modules**](https://openreview.net/forum?id=MNShbDSxKH) <br> | ICLR | 2024 |-|
+|[**Interpret Your Decision: Logical Reasoning Regularization for Generalization in Visual Classification**](https://arxiv.org/abs/2410.04492) <br> | NeurIPS | 2024 |-|
+|[**Integrating Neural-Symbolic Reasoning With Variational Causal Inference Network for Explanatory Visual Question Answering**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10522958) <br> | TPAMI | 2024 |-|
+|[**TV-TREES: Multimodal Entailment Trees for Neuro-Symbolic Video Reasoning**](https://arxiv.org/abs/2402.19467) <br> | EMNLP | 2024 |-|
+|[**Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models**](https://arxiv.org/pdf/2304.09842)<br> | NeurIPS | 2023 |[Github](https://github.com/lupantech/chameleon-llm)|
+|[**What's Left? Concept Grounding with Logic-Enhanced Foundation Models**](https://jiajunwu.com/papers/left_nips.pdf)<br> | NeurIPS | 2023 | [Github](https://github.com/joyhsu0504/LEFT) |
+|[**Visual Programming: Compositional visual reasoning without training**](https://arxiv.org/abs/2211.11559)<br> | CVPR (Best Paper) | 2023 | [Github](https://github.com/allenai/visprog) |
+|[**NS3D: Neuro-Symbolic Grounding of 3D Objects and Relations**](https://arxiv.org/abs/2303.13483)<br> | CVPR | 2023 | [Github](https://github.com/joyhsu0504/NS3D) |
+|[**ViperGPT: Visual Inference via Python Execution for Reasoning**](https://arxiv.org/abs/2303.08128)<br> | CVPR | 2023 | [Github](https://github.com/cvlab-columbia/viper) |
+|[**Rapid Image Labeling via Neuro-Symbolic Learning**](https://dl.acm.org/doi/pdf/10.1145/3580305.3599485) <br> | KDD | 2023 |[Github](https://github.com/Neural-Symbolic-Image-Labeling/Rapid/)|
+|[**FALCON: Fast Visual Concept Learning by Integrating Images, Linguistic descriptions, and Conceptual Relations**](https://arxiv.org/pdf/2203.16639)<br> | ICLR | 2022 | - |
+|[**A Neuro-Symbolic ASP Pipeline for Visual Question Answering**](https://arxiv.org/abs/2205.07548)<br> | ICLP | 2022 | - |
+|[**Neuro-Symbolic Visual Reasoning: Disentangling “Visual” from “Reasoning”**](https://arxiv.org/abs/2006.11524) <br> | ICML | 2020 | [Github](https://github.com/microsoft/DFOL-VQA) |
+|[**Probabilistic Neural-symbolic Models for Interpretable Visual Question Answering**](https://proceedings.mlr.press/v97/vedantam19a/vedantam19a.pdf) <br> | ICML | 2019 |-|
+|[**Visual Concept-MetaConcept Learning**](https://arxiv.org/pdf/2002.01464) <br> | NeurIPS | 2019 |[Github](https://github.com/Glaciohound/VCML)|
+|[**The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision**](http://nscl.csail.mit.edu/data/papers/2019ICLR-NSCL.pdf) <br> | ICLR | 2019 | [Github](https://github.com/vacancy/NSCL-PyTorch-Release) |
+|[**Learning to Describe Scenes with Programs**](https://jiajunwu.com/papers/scene2prog_iclr.pdf) <br> | ICLR | 2019 |-|
+|[**Learning to Infer and Execute 3D Shape Programs**](https://arxiv.org/abs/1901.02875) <br> | ICLR | 2019 | [Github](https://github.com/HobbitLong/shape2prog) |
+|[**Program-Guided Image Manipulators**](https://jiajunwu.com/papers/pgim_iccv.pdf) <br> | ICCV | 2019 |-|
+|[**Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding**](https://arxiv.org/abs/1810.02338) <br> | NeurIPS | 2018 | [Github](https://github.com/kexinyi/ns-vqa) |
+
+### Basic Neuro-Symbolic Frameworks
+|  Title  |   Venue  |   Date   |   Code   |
+|:--------|:--------:|:--------:|:--------:|
+|[**Neural-Symbolic Recursive Machine for Systematic Generalization**](https://arxiv.org/abs/2210.01603) <br> | ICLR | 2024 | [Github](https://liqing.io/NSR/) |
+|[**Neuro-symbolic Learning Yielding Logical Constraints**](https://arxiv.org/abs/2410.20957) <br> | NeurIPS | 2023 | [Github](https://github.com/Lizn-zn/Nesy-Programming) |
+|[**MultiplexNet: Towards Fully Satisfied Logical Constraints in Neural Networks**](https://arxiv.org/pdf/2111.01564) <br> | AAAI | 2022 | - |
+|[**Neuro-Symbolic Hierarchical Rule Induction**](https://proceedings.mlr.press/v162/glanois22a.html) <br> | ICML | 2022 | - |
+|[**Logic Tensor Networks**](https://arxiv.org/abs/2012.13635) <br> | Artificial Intelligence | 2022 | [Github](https://github.com/logictensornetworks/logictensornetworks) |
+|[**NeurASP: Embracing Neural Networks into Answer Set Programming**](https://arxiv.org/abs/2307.07700) <br> | IJCAI | 2020 | [Github](https://github.com/azreasoners/NeurASP) |
+|[**Learning programs by learning from failures**](https://arxiv.org/abs/2005.02259) <br> | Machine Learning | 2020 | - |
+|[**Logical Neural Networks**](https://arxiv.org/pdf/2006.13155) <br> | Arxiv | 2020 | [Github](https://github.com/IBM/LNN) |
+|[**Closed Loop Neural-Symbolic Learning via Integrating Neural Perception, Grammar Parsing, and Symbolic Reasoning**](https://arxiv.org/pdf/2006.06649) <br> | ICML | 2020 | [Github](https://liqing-ustc.github.io/NGS) |
+|[**Ontology Reasoning with Deep Neural Networks**](https://arxiv.org/abs/1808.07980) <br> | Artificial Intelligence | 2020 | - |
+|[**Augmenting Neural Networks with First-order Logic**](https://arxiv.org/pdf/1906.06298) <br> | ACL | 2019 | - |
+|[**Neural Logic Machines**](https://arxiv.org/abs/1904.11694) <br> | ICLR | 2019 | [Github](https://github.com/google/neural-logic-machines) |
+|[**Bridging Machine Learning and Logical Reasoning by Abductive Learning**](https://proceedings.neurips.cc/paper_files/paper/2019/file/9c19a2aa1d84e04b0bd4bc888792bd1e-Paper.pdf) <br> | NeurIPS | 2019 | [Github](https://github.com/IBM/LNN) |
+|[**SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver**](https://arxiv.org/pdf/1905.12149) <br> | ICML | 2019 | [Github](https://github.com/locuslab/satnet) |
+|[**DL2: Training and Querying Neural Networks with Logic**](http://proceedings.mlr.press/v97/fischer19a/fischer19a.pdf) <br> | ICML | 2019 | [Github](https://github.com/eth-sri/dl2) |
+|[**The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision**](http://nscl.csail.mit.edu/data/papers/2019ICLR-NSCL.pdf) <br> | ICLR | 2019 | [Github](https://github.com/vacancy/NSCL-PyTorch-Release) |
+|[**DeepProbLog: Neural Probabilistic Logic Programming**](https://arxiv.org/abs/1805.10872) <br> | NeurIPS | 2018 | [Github](https://github.com/ML-KULeuven/deepproblog) |
+|[**Learning Explanatory Rules from Noisy Data**](https://arxiv.org/abs/1711.04574) <br> | Journal of Artificial Intelligence Research | 2018 | [Github](https://github.com/ai-systems/DILP-Core) |
+|[**Semantic-based regularization for learning and inference**](https://arxiv.org/abs/1904.11694) <br> | Artificial Intelligence | 2017 | - |
 
 ## Awesome Tutorials & Workshops & Talks
 - [Summer School on Neurosymbolic Programming](https://www.neurosymbolic.org/index.html)
@@ -143,31 +213,24 @@
 - [Neurosymbolic Programming](https://www.cs.utexas.edu/~swarat/pubs/PGL-049-Plain.pdf) [[Slides]](https://nips.cc/media/neurips-2022/Slides/55804.pdf)
 - [Overview of Neuro-Symbolic Integration Frameworks](https://link.springer.com/chapter/10.1007/978-981-97-8171-3_10)
 - [Survey on applications of neurosymbolic artificial intelligence](https://arxiv.org/abs/2209.12618)
-
-### Basic Neuro-Symbolic Frameworks
-|  Title  |   Venue  |   Date   |   Code   |
-|:--------|:--------:|:--------:|:--------:|
-|[**Neural-Symbolic Recursive Machine for Systematic Generalization**](https://arxiv.org/abs/2210.01603) <br> | ICLR | 2024 | [Github](https://liqing.io/NSR/) |
-|[**Neuro-symbolic Learning Yielding Logical Constraints**](https://arxiv.org/abs/2410.20957) <br> | NeurIPS | 2023 | [Github](https://github.com/Lizn-zn/Nesy-Programming) |
-|[**MultiplexNet: Towards Fully Satisfied Logical Constraints in Neural Networks**](https://arxiv.org/pdf/2111.01564) <br> | AAAI | 2022 | - |
-|[**Neuro-Symbolic Hierarchical Rule Induction**](https://proceedings.mlr.press/v162/glanois22a.html) <br> | ICML | 2022 | - |
-|[**Logic Tensor Networks**](https://arxiv.org/abs/2012.13635) <br> | Artificial Intelligence | 2022 | [Github](https://github.com/logictensornetworks/logictensornetworks) |
-|[**NeurASP: Embracing Neural Networks into Answer Set Programming**](https://arxiv.org/abs/2307.07700) <br> | IJCAI | 2020 | [Github](https://github.com/azreasoners/NeurASP) |
-|[**Learning programs by learning from failures**](https://arxiv.org/abs/2005.02259) <br> | Machine Learning | 2020 | - |
-|[**Logical Neural Networks**](https://arxiv.org/pdf/2006.13155) <br> | Arxiv | 2020 | [Github](https://github.com/IBM/LNN) |
-|[**Closed Loop Neural-Symbolic Learning via Integrating Neural Perception, Grammar Parsing, and Symbolic Reasoning**](https://arxiv.org/pdf/2006.06649) <br> | ICML | 2020 | [Github](https://liqing-ustc.github.io/NGS) |
-|[**Ontology Reasoning with Deep Neural Networks**](https://arxiv.org/abs/1808.07980) <br> | Artificial Intelligence | 2020 | - |
-|[**Augmenting Neural Networks with First-order Logic**](https://arxiv.org/pdf/1906.06298) <br> | ACL | 2019 | - |
-|[**Neural Logic Machines**](https://arxiv.org/abs/1904.11694) <br> | ICLR | 2019 | [Github](https://github.com/google/neural-logic-machines) |
-|[**Bridging Machine Learning and Logical Reasoning by Abductive Learning**](https://proceedings.neurips.cc/paper_files/paper/2019/file/9c19a2aa1d84e04b0bd4bc888792bd1e-Paper.pdf) <br> | NeurIPS | 2019 | [Github](https://github.com/IBM/LNN) |
-|[**SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver**](https://arxiv.org/pdf/1905.12149) <br> | ICML | 2019 | [Github](https://github.com/locuslab/satnet) |
-|[**DL2: Training and Querying Neural Networks with Logic**](http://proceedings.mlr.press/v97/fischer19a/fischer19a.pdf) <br> | ICML | 2019 | [Github](https://github.com/eth-sri/dl2) |
-|[**The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision**](http://nscl.csail.mit.edu/data/papers/2019ICLR-NSCL.pdf) <br> | ICLR | 2019 | [Github](https://github.com/vacancy/NSCL-PyTorch-Release) |
-|[**DeepProbLog: Neural Probabilistic Logic Programming**](https://arxiv.org/abs/1805.10872) <br> | NeurIPS | 2018 | [Github](https://github.com/ML-KULeuven/deepproblog) |
-|[**Learning Explanatory Rules from Noisy Data**](https://arxiv.org/abs/1711.04574) <br> | Journal of Artificial Intelligence Research | 2018 | [Github](https://github.com/ai-systems/DILP-Core) |
-|[**Semantic-based regularization for learning and inference**](https://arxiv.org/abs/1904.11694) <br> | Artificial Intelligence | 2017 | - |
-
-
+  
+## Awesome Datasets & Benchmarks
+- [Visual Sudoku](https://github.com/linqs/visual-sudoku-puzzle-classification): An visual sudoku puzzle
+- [CLEVR Dataset](https://cs.stanford.edu/people/jcjohns/clevr/) for VQA
+- [GQA Dataset](https://cs.stanford.edu/people/dorarad/gqa/) for VQA
+- [LogiCity](https://jaraxxus-me.github.io/LogiCity/) for Abstract Urban Simulation
+- [LogicGame](https://www.arxiv.org/pdf/2408.15778) Benchmarking Rule-Based Reasoning Abilities of Large Language Models
+- [Minigrid](https://github.com/Farama-Foundation/Minigrid?tab=readme-ov-file)
+- [BabyAI](https://github.com/mila-iqia/babyai/tree/iclr19)
+- [Minecraft](https://github.com/tomsilver/pddlgym)
+- [Mini-Behavior](https://github.com/StanfordVL/mini_behavior) for Embodied Tasks
+- [CLIPort Dataset](https://cliport.github.io/) for Embodied Tasks
+- [ALFworld](https://github.com/alfworld/alfworld) for Embodied Tasks
+- [VirtualHome](http://virtual-home.org/) for Embodied Tasks
+- [Planbench](https://arxiv.org/pdf/2206.10498) for evaluating LLM Planning
+- [RSbench](https://unitn-sml.github.io/rsbench/) A Neuro-Symbolic Benchmark Suite for Concept Quality and Reasoning Shortcuts
+- [FOLIO](https://arxiv.org/abs/2209.00840) Natural Language Reasoning with First-Order Logic
+  
 ## 📌 Contributions
 If you know relevant papers or want to add new resources, feel free to submit a **Pull Request (PR)** or open an **Issue**!
 
