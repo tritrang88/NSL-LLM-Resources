@@ -33,6 +33,7 @@
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[**Argumentative Large Language Models for Explainable and Contestable Decision-Making**](https://arxiv.org/abs/2405.02079) <br> | AAAI | 2025 | [Github](https://github.com/CLArg-group/argumentative-llms) |
+|[**Aligning with Logic: Measuring, Evaluating and Improving  Logical Preference Consistency in Large Language Models**](https://arxiv.org/abs/2405.02079) <br> | ICML | 2025 | - |
 |[**Efficient Rectification of Neuro-Symbolic Reasoning Inconsistencies by Abductive Reflection**](https://arxiv.org/pdf/2412.08457) <br> | AAAI | 2025 |-|
 |[**StackSight: Unveiling WebAssembly through Large Language Models and Neurosymbolic Chain-of-Thought Decompilation**](https://openreview.net/forum?id=gn5AsHIIwb) <br> | ICML | 2024 |-|
 |[**Leveraging LLMs for Hypothetical Deduction in Logical Inference: A Neuro-Symbolic Approach**](https://arxiv.org/abs/2410.21779) <br> | Arxiv | 2024 | - |
@@ -167,6 +168,7 @@
 ### Basic Neuro-Symbolic Frameworks
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
+|[**Graph of Thoughts: Solving Elaborate Problems with Large Language Models**](https://arxiv.org/pdf/2308.09687) <br> | AAAI | 2024 | [Github](https://github.com/spcl/graph-of-thoughts) |
 |[**Neural-Symbolic Recursive Machine for Systematic Generalization**](https://arxiv.org/abs/2210.01603) <br> | ICLR | 2024 | [Github](https://liqing.io/NSR/) |
 |[**Neuro-symbolic Learning Yielding Logical Constraints**](https://arxiv.org/abs/2410.20957) <br> | NeurIPS | 2023 | [Github](https://github.com/Lizn-zn/Nesy-Programming) |
 |[**MultiplexNet: Towards Fully Satisfied Logical Constraints in Neural Networks**](https://arxiv.org/pdf/2111.01564) <br> | AAAI | 2022 | - |
