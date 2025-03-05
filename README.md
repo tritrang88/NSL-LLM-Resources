@@ -44,6 +44,7 @@
 ### Neuro-Symbolic Learning for LLM Reasoning
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
+|[**Efficient Rectification of Neuro-Symbolic Reasoning Inconsistencies by Abductive Reflection**](https://arxiv.org/pdf/2412.08457) <br> | AAAI | 2025 |-|
 |[**StackSight: Unveiling WebAssembly through Large Language Models and Neurosymbolic Chain-of-Thought Decompilation**](https://openreview.net/forum?id=gn5AsHIIwb) <br> | ICML | 2024 |-|
 |[**Leveraging LLMs for Hypothetical Deduction in Logical Inference: A Neuro-Symbolic Approach**](https://arxiv.org/abs/2410.21779) <br> | Arxiv | 2024 | - |
 |[**Towards LogiGLUE: A Brief Survey and A Benchmark for Analyzing Logical Reasoning Capabilities of Language Models**](https://arxiv.org/abs/2310.00836) <br> | Arxiv | 2024 | - |
@@ -198,6 +199,7 @@
 - [Building General-Purpose Robots with Compositional Action Abstractions](https://jiayuanm.com/data/2024-04-19-brown-compositional-action-abstractions.pdf) Talk given by Jiayuan Mao  
 
 ## Awesome Survey & Books
+- [Empowering LLMs with Logical Reasoning: A Comprehensive Survey](https://arxiv.org/pdf/2502.15652)
 - [Logical Reasoning in Large Language Models: A Survey](https://arxiv.org/abs/2502.09100)
 - [Reasoning Language Models: A Blueprint](https://arxiv.org/abs/2501.11223)
 - [A Survey on Neural-symbolic Learning Systems](https://arxiv.org/abs/2111.08164)
