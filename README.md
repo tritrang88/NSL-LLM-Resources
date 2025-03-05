@@ -166,7 +166,6 @@
 - [Overview of Neuro-Symbolic Integration Frameworks](https://link.springer.com/chapter/10.1007/978-981-97-8171-3_10)
 - [Survey on applications of neurosymbolic artificial intelligence](https://arxiv.org/abs/2209.12618)
 
-## Awesome Papers
 ### Basic Neuro-Symbolic Frameworks
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
