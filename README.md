@@ -170,6 +170,7 @@
 |:--------|:--------:|:--------:|:--------:|
 |[**Graph of Thoughts: Solving Elaborate Problems with Large Language Models**](https://arxiv.org/pdf/2308.09687) <br> | AAAI | 2024 | [Github](https://github.com/spcl/graph-of-thoughts) |
 |[**Neural-Symbolic Recursive Machine for Systematic Generalization**](https://arxiv.org/abs/2210.01603) <br> | ICLR | 2024 | [Github](https://liqing.io/NSR/) |
+|[**Tree of Thoughts: Deliberate Problem Solving with Large Language Models**](https://arxiv.org/pdf/2305.10601) <br> | NeurIPS | 2023 | [Github](https://github.com/princeton-nlp/tree-of-thought-llm) |
 |[**Neuro-symbolic Learning Yielding Logical Constraints**](https://arxiv.org/abs/2410.20957) <br> | NeurIPS | 2023 | [Github](https://github.com/Lizn-zn/Nesy-Programming) |
 |[**MultiplexNet: Towards Fully Satisfied Logical Constraints in Neural Networks**](https://arxiv.org/pdf/2111.01564) <br> | AAAI | 2022 | - |
 |[**Neuro-Symbolic Hierarchical Rule Induction**](https://proceedings.mlr.press/v162/glanois22a.html) <br> | ICML | 2022 | - |
