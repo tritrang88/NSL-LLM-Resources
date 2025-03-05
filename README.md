@@ -230,6 +230,7 @@
 - [Planbench](https://arxiv.org/pdf/2206.10498) for evaluating LLM Planning
 - [RSbench](https://unitn-sml.github.io/rsbench/) A Neuro-Symbolic Benchmark Suite for Concept Quality and Reasoning Shortcuts
 - [FOLIO](https://arxiv.org/abs/2209.00840) Natural Language Reasoning with First-Order Logic
+- [P-FOLIO](https://arxiv.org/abs/2410.09207) Evaluating and Improving Logical Reasoning with Abundant Human-Written Reasoning Chains
   
 ## 📌 Contributions
 If you know relevant papers or want to add new resources, feel free to submit a **Pull Request (PR)** or open an **Issue**!
