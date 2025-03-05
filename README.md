@@ -32,7 +32,7 @@
 ### Neuro-Symbolic Learning for LLM Reasoning
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
-|[**Argumentative Large Language Models for Explainable and Contestable Decision-Making**](https://arxiv.org/abs/2405.02079) <br> | AAAI | 2025 |-|
+|[**Argumentative Large Language Models for Explainable and Contestable Decision-Making**](https://arxiv.org/abs/2405.02079) <br> | AAAI | 2025 | [Github](https://github.com/CLArg-group/argumentative-llms) |
 |[**Efficient Rectification of Neuro-Symbolic Reasoning Inconsistencies by Abductive Reflection**](https://arxiv.org/pdf/2412.08457) <br> | AAAI | 2025 |-|
 |[**StackSight: Unveiling WebAssembly through Large Language Models and Neurosymbolic Chain-of-Thought Decompilation**](https://openreview.net/forum?id=gn5AsHIIwb) <br> | ICML | 2024 |-|
 |[**Leveraging LLMs for Hypothetical Deduction in Logical Inference: A Neuro-Symbolic Approach**](https://arxiv.org/abs/2410.21779) <br> | Arxiv | 2024 | - |
