@@ -35,9 +35,9 @@
 |[**Efficient Rectification of Neuro-Symbolic Reasoning Inconsistencies by Abductive Reflection**](https://arxiv.org/pdf/2412.08457) <br> | AAAI | 2025 |-|
 |[**Argumentative Large Language Models for Explainable and Contestable Decision-Making**](https://arxiv.org/abs/2405.02079) <br> | AAAI | 2025 | [Github](https://github.com/CLArg-group/argumentative-llms) |
 |[**Aligning with Logic: Measuring, Evaluating and Improving  Logical Preference Consistency in Large Language Models**](https://arxiv.org/abs/2410.02205) <br> | ICML | 2025 | - |
+|[**Neuro-Symbolic Integration Brings Causal and Reliable Reasoning Proofs**](https://arxiv.org/abs/2311.09802) <br> | NAACL | 2025 | [Github](https://github.com/DAMO-NLP-SG/CaRing) |
 |[**Leveraging LLMs for Hypothetical Deduction in Logical Inference: A Neuro-Symbolic Approach**](https://arxiv.org/abs/2410.21779) <br> | Arxiv | 2024 | [Github](https://github.com/wufeiwuwoshihua/nshy) |
 |[**Towards LogiGLUE: A Brief Survey and A Benchmark for Analyzing Logical Reasoning Capabilities of Language Models**](https://arxiv.org/abs/2310.00836) <br> | Arxiv | 2024 | - |
-|[**Neuro-Symbolic Integration Brings Causal and Reliable Reasoning Proofs**](https://arxiv.org/abs/2311.09802) <br> | NAACL | 2025 | [Github](https://github.com/DAMO-NLP-SG/CaRing) |
 |[**SAC-KG: Exploiting Large Language Models as Skilled Automatic Constructors for Domain Knowledge Graphs**](https://aclanthology.org/2024.acl-long.238.pdf) <br> | ACL | 2024 | - |
 |[**Natural Language Embedded Programs for Hybrid Language Symbolic Reasoning**](https://arxiv.org/abs/2309.10814) <br> | ACL | 2024 | [Github](https://github.com/luohongyin/LangCode) |
 |[**Prototype-then-Refine: A Neuro-Symbolic Approach for Improved Logical Reasoning with LLMs**](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1244/final-projects/BassemAkoushHashemElezabi.pdf) <br> | Arxiv | 2024 |-|
