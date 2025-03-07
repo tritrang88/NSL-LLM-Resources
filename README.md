@@ -36,7 +36,7 @@
 |[**Argumentative Large Language Models for Explainable and Contestable Decision-Making**](https://arxiv.org/abs/2405.02079) <br> | AAAI | 2025 | [Github](https://github.com/CLArg-group/argumentative-llms) |
 |[**Aligning with Logic: Measuring, Evaluating and Improving  Logical Preference Consistency in Large Language Models**](https://arxiv.org/abs/2410.02205) <br> | ICML | 2025 | - |
 |[**Neuro-Symbolic Integration Brings Causal and Reliable Reasoning Proofs**](https://arxiv.org/abs/2311.09802) <br> | NAACL | 2025 | [Github](https://github.com/DAMO-NLP-SG/CaRing) |
-|[**Harnessing the Power of Large Language Models for Natural Language to First-Order Logic Translation**](https://aclanthology.org/2024.acl-long.375.pdf) <br> | Arxiv | 2024 | [Github](https://github.com/gblackout/LogicLLaMA) |
+|[**Harnessing the Power of Large Language Models for Natural Language to First-Order Logic Translation**](https://aclanthology.org/2024.acl-long.375.pdf) <br> | ACL | 2024 | [Github](https://github.com/gblackout/LogicLLaMA) |
 |[**Leveraging LLMs for Hypothetical Deduction in Logical Inference: A Neuro-Symbolic Approach**](https://arxiv.org/abs/2410.21779) <br> | Arxiv | 2024 | [Github](https://github.com/wufeiwuwoshihua/nshy) |
 |[**Towards LogiGLUE: A Brief Survey and A Benchmark for Analyzing Logical Reasoning Capabilities of Language Models**](https://arxiv.org/abs/2310.00836) <br> | Arxiv | 2024 | - |
 |[**SAC-KG: Exploiting Large Language Models as Skilled Automatic Constructors for Domain Knowledge Graphs**](https://aclanthology.org/2024.acl-long.238.pdf) <br> | ACL | 2024 | - |
