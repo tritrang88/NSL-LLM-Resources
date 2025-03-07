@@ -37,6 +37,7 @@
 |[**Argumentative Large Language Models for Explainable and Contestable Decision-Making**](https://arxiv.org/abs/2405.02079) <br> | AAAI | 2025 | [Github](https://github.com/CLArg-group/argumentative-llms) |
 |[**Aligning with Logic: Measuring, Evaluating and Improving  Logical Preference Consistency in Large Language Models**](https://arxiv.org/abs/2410.02205) <br> | ICML | 2025 | - |
 |[**Neuro-Symbolic Integration Brings Causal and Reliable Reasoning Proofs**](https://arxiv.org/abs/2311.09802) <br> | NAACL | 2025 | [Github](https://github.com/DAMO-NLP-SG/CaRing) |
+|[**Faithful Logical Reasoning via Symbolic Chain-of-Thought**](https://aclanthology.org/2024.acl-long.720.pdf) <br> | ACL | 2024 | [Github](https://github.com/Aiden0526/SymbCoT) |
 |[**Harnessing the Power of Large Language Models for Natural Language to First-Order Logic Translation**](https://aclanthology.org/2024.acl-long.375.pdf) <br> | ACL | 2024 | [Github](https://github.com/gblackout/LogicLLaMA) |
 |[**Language Models as Inductive Reasoners**](https://aclanthology.org/2024.eacl-long.13.pdf) <br> | ACL | 2024 | [Github](https://github.com/ZonglinY/Inductive_Reasoning) |
 |[**Verifiable, Debuggable, and Repairable Commonsense Logical Reasoning via LLM-based Theory Resolution**](https://aclanthology.org/2024.emnlp-main.379.pdf) <br> | EMNLP | 2024 | [Github](https://github.com/atoroghi/LLM-TRes) |
