@@ -11,15 +11,24 @@ _Last updated: 2025.04.08_
 
 |Publish Date|Title|Authors|PDF|Code|Comments|
 |---|---|---|---|---|---|
+|**2025-04-10**|**S$^2$-MAD: Breaking the Token Barrier to Enhance Multi-Agent Debate Efficiency**|Yuting Zeng et.al.|[2502.04790](http://arxiv.org/abs/2502.04790)|null|
+|**2025-04-10**|**Enhancing Large Language Models through Neuro-Symbolic Integration and Ontological Reasoning**|Ruslan Idelfonso Magana Vsevolodovna et.al.|[2504.07640](http://arxiv.org/abs/2504.07640)|null|
+|**2025-04-09**|**Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models**|Qiguang Chen et.al.|[2503.09567](http://arxiv.org/abs/2503.09567)|null|
+|**2025-04-09**|**Alice: Proactive Learning with Teacher's Demonstrations for Weak-to-Strong Generalization**|Shujin Wu et.al.|[2504.07316](http://arxiv.org/abs/2504.07316)|null|
+|**2025-04-09**|**MovSAM: A Single-image Moving Object Segmentation Framework Based on Deep Thinking**|Chang Nie et.al.|[2504.06863](http://arxiv.org/abs/2504.06863)|null|
+|**2025-04-09**|**Polygon: Symbolic Reasoning for SQL using Conflict-Driven Under-Approximation Search**|Pinhan Zhao et.al.|[2504.06542](http://arxiv.org/abs/2504.06542)|null|
+|**2025-04-08**|**Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual Editing**|Xiangyu Zhao et.al.|[2504.02826](http://arxiv.org/abs/2504.02826)|null|
+|**2025-04-08**|**Don't Let It Hallucinate: Premise Verification via Retrieval-Augmented Logical Reasoning**|Yuehan Qin et.al.|[2504.06438](http://arxiv.org/abs/2504.06438)|null|
+|**2025-04-08**|**BoolE: Exact Symbolic Reasoning via Boolean Equality Saturation**|Jiaqi Yin et.al.|[2504.05577](http://arxiv.org/abs/2504.05577)|null|
 |**2025-04-07**|**The Curse of CoT: On the Limitations of Chain-of-Thought in In-Context Learning**|Tianshi Zheng et.al.|[2504.05081](http://arxiv.org/abs/2504.05081)|null|
 |**2025-04-07**|**Provable Failure of Language Models in Learning Majority Boolean Logic via Gradient Descent**|Bo Chen et.al.|[2504.04702](http://arxiv.org/abs/2504.04702)|null|
 |**2025-04-07**|**H-STAR: LLM-driven Hybrid SQL-Text Adaptive Reasoning on Tables**|Nikhil Abhyankar et.al.|[2407.05952](http://arxiv.org/abs/2407.05952)|**[link](https://github.com/nikhilsab/h-star)**||
 |**2025-04-07**|**Ontology Embedding: A Survey of Methods, Applications and Resources**|Jiaoyan Chen et.al.|[2406.10964](http://arxiv.org/abs/2406.10964)|**[link](https://github.com/bio-ontology-research-group/mowl)**|Accepted by IEEE Transactions on Knowledge and Data Engineering   (TKDE)|
+|**2025-04-07**|**Reasoning Models Know When They're Right: Probing Hidden States for Self-Verification**|Anqi Zhang et.al.|[2504.05419](http://arxiv.org/abs/2504.05419)|null|
 |**2025-04-06**|**CRANE: Reasoning with constrained LLM generation**|Debangshu Banerjee et.al.|[2502.09061](http://arxiv.org/abs/2502.09061)|null|
 |**2025-04-06**|**Verification with Transparency: The TrendFact Benchmark for Auditable Fact-Checking via Natural Language Explanation**|Xiaocheng Zhang et.al.|[2410.15135](http://arxiv.org/abs/2410.15135)|null|
 |**2025-04-04**|**Have Large Language Models Learned to Reason? A Characterization via 3-SAT Phase Transition**|Rishi Hazra et.al.|[2504.03930](http://arxiv.org/abs/2504.03930)|null|
 |**2025-04-04**|**VL-TGS: Trajectory Generation and Selection using Vision Language Models in Mapless Outdoor Environments**|Daeun Song et.al.|[2408.02454](http://arxiv.org/abs/2408.02454)|null|
-|**2025-04-03**|**Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual Editing**|Xiangyu Zhao et.al.|[2504.02826](http://arxiv.org/abs/2504.02826)|null|
 |**2025-04-03**|**LogiCity: Advancing Neuro-Symbolic AI with Abstract Urban Simulation**|Bowen Li et.al.|[2411.00773](http://arxiv.org/abs/2411.00773)|**[link](https://github.com/Jaraxxus-Me/LogiCity)**|⭐ 25 pages, 8 figures, In Advances in Neural Information Processing   Systems (NeurIPS) 37 D&B Track (2024): 69840-69864|
 |**2025-04-02**|**Adaptive Rectification Sampling for Test-Time Compute Scaling**|Zhendong Tan et.al.|[2504.01317](http://arxiv.org/abs/2504.01317)|**[link](https://github.com/TanZhendong/AR-Sampling)**||
 |**2025-04-02**|**VGRP-Bench: Visual Grid Reasoning Puzzle Benchmark for Large Vision-Language Models**|Yufan Ren et.al.|[2503.23064](http://arxiv.org/abs/2503.23064)|null|
@@ -57,7 +66,6 @@ _Last updated: 2025.04.08_
 |**2025-03-16**|**Hybrid Learners Do Not Forget: A Brain-Inspired Neuro-Symbolic Approach to Continual Learning**|Amin Banayeeanzade et.al.|[2503.12635](http://arxiv.org/abs/2503.12635)|null|
 |**2025-03-15**|**Aristotle's Original Idea: For and Against Logic in the era of AI**|Antonis C. Kakas et.al.|[2503.12161](http://arxiv.org/abs/2503.12161)|null|
 |**2025-03-15**|**Maritime Mission Planning for Unmanned Surface Vessel using Large Language Model**|Muhayy Ud Din et.al.|[2503.12065](http://arxiv.org/abs/2503.12065)|null|
-|**2025-03-13**|**Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models**|Qiguang Chen et.al.|[2503.09567](http://arxiv.org/abs/2503.09567)|null|
 |**2025-03-13**|**The Society of HiveMind: Multi-Agent Optimization of Foundation Model Swarms to Unlock the Potential of Collective Intelligence**|Noah Mamie et.al.|[2503.05473](http://arxiv.org/abs/2503.05473)|null|
 |**2025-03-13**|**FlashRNN: I/O-Aware Optimization of Traditional RNNs on modern hardware**|Korbinian Pöppel et.al.|[2412.07752](http://arxiv.org/abs/2412.07752)|**[link](https://github.com/nx-ai/flashrnn)**||
 |**2025-03-13**|**Enhancing Chain of Thought Prompting in Large Language Models via Reasoning Patterns**|Yufeng Zhang et.al.|[2404.14812](http://arxiv.org/abs/2404.14812)|null|
@@ -90,7 +98,7 @@ _Last updated: 2025.04.08_
 |**2025-03-03**|**Subtle Errors Matter: Preference Learning via Error-injected Self-editing**|Kaishuai Xu et.al.|[2410.06638](http://arxiv.org/abs/2410.06638)|null|
 |**2025-03-03**|**Dynamics of Instruction Fine-Tuning for Chinese Large Language Models**|Chiyu Song et.al.|[2310.19651](http://arxiv.org/abs/2310.19651)|**[link](https://github.com/chiyusong/dynamics-of-instruction-tuning)**|Accepted to COLING 2025|
 |**2025-03-02**|**From Understanding the World to Intervening in It: A Unified Multi-Scale Framework for Embodied Cognition**|Maijunxian Wang et.al.|[2503.00727](http://arxiv.org/abs/2503.00727)|null|
-|**2025-03-02**|**Large Language Models Meet Symbolic Provers for Logical Reasoning Evaluation**|Chengwen Qi et.al.|[2502.06563](http://arxiv.org/abs/2502.06563)|**[link](https://github.com/opendatalab/provergen)**|Accepted by ICLR 2025|
+|**2025-03-02**|**Large Language Models Meet Symbolic Provers for Logical Reasoning Evaluation**|Chengwen Qi et.al.|[2502.06563](http://arxiv.org/abs/2502.06563)|**[link](https://github.com/opendatalab/provergen)**|⭐ Accepted by ICLR 2025|
 |**2025-03-02**|**Derailer-Rerailer: Adaptive Verification for Efficient and Reliable Language Model Reasoning**|Guangya Wan et.al.|[2408.13940](http://arxiv.org/abs/2408.13940)|null|
 |**2025-03-02**|**Path-Consistency: Prefix Enhancement for Efficient Inference in LLM**|Jiace Zhu et.al.|[2409.01281](http://arxiv.org/abs/2409.01281)|null|
 |**2025-03-01**|**NeuroSymAD: A Neuro-Symbolic Framework for Interpretable Alzheimer's Disease Diagnosis**|Yexiao He et.al.|[2503.00510](http://arxiv.org/abs/2503.00510)|null|
@@ -100,14 +108,14 @@ _Last updated: 2025.04.08_
 |**2025-02-28**|**Logical Consistency of Large Language Models in Fact-checking**|Bishwamittra Ghosh et.al.|[2412.16100](http://arxiv.org/abs/2412.16100)|null|
 |**2025-02-28**|**Logicbreaks: A Framework for Understanding Subversion of Rule-based Inference**|Anton Xue et.al.|[2407.00075](http://arxiv.org/abs/2407.00075)|null|
 |**2025-02-27**|**Order Doesn't Matter, But Reasoning Does: Training LLMs with Order-Centric Augmentation**|Qianxi He et.al.|[2502.19907](http://arxiv.org/abs/2502.19907)|null|
-|**2025-02-27**|**Proving Olympiad Inequalities by Synergizing LLMs and Symbolic Reasoning**|Zenan Li et.al.|[2502.13834](http://arxiv.org/abs/2502.13834)|**[link](https://github.com/lizn-zn/neqlips)**|Published as a conference paper at ICLR 2025. Code is available at   https://github.com/Lizn-zn/NeqLIPS/|
+|**2025-02-27**|**Proving Olympiad Inequalities by Synergizing LLMs and Symbolic Reasoning**|Zenan Li et.al.|[2502.13834](http://arxiv.org/abs/2502.13834)|**[link](https://github.com/lizn-zn/neqlips)**|⭐ Published as a conference paper at ICLR 2025. Code is available at   https://github.com/Lizn-zn/NeqLIPS/|
 |**2025-02-27**|**Is Mathematics Obsolete?**|Jeremy Avigad et.al.|[2502.14874](http://arxiv.org/abs/2502.14874)|null|
-|**2025-02-26**|**Unveiling the Magic of Code Reasoning through Hypothesis Decomposition and Amendment**|Yuze Zhao et.al.|[2502.13170](http://arxiv.org/abs/2502.13170)|**[link](https://github.com/tntwow/code_reasoning)**||
+|**2025-02-26**|**Unveiling the Magic of Code Reasoning through Hypothesis Decomposition and Amendment**|Yuze Zhao et.al.|[2502.13170](http://arxiv.org/abs/2502.13170)|**[link](https://github.com/tntwow/code_reasoning)**|⭐ ICLR 2025 Poster;23 pages, 7 figures|
 |**2025-02-26**|**HYBRIDMIND: Meta Selection of Natural Language and Symbolic Language for Enhanced LLM Reasoning**|Simeng Han et.al.|[2409.19381](http://arxiv.org/abs/2409.19381)|null|
 |**2025-02-25**|**TextGames: Learning to Self-Play Text-Based Puzzle Games via Language Model Reasoning**|Frederikus Hudi et.al.|[2502.18431](http://arxiv.org/abs/2502.18431)|**[link](https://github.com/fhudi/textgames)**||
 |**2025-02-25**|**From System 1 to System 2: A Survey of Reasoning Large Language Models**|Zhong-Zhi Li et.al.|[2502.17419](http://arxiv.org/abs/2502.17419)|**[link](https://github.com/zzli2022/awesome-slow-reason-system)**||
 |**2025-02-25**|**Identifying Features that Shape Perceived Consciousness in Large Language Model-based AI: A Quantitative Study of Human Responses**|Bongsu Kang et.al.|[2502.15365](http://arxiv.org/abs/2502.15365)|null|
-|**2025-02-25**|**Divide and Translate: Compositional First-Order Logic Translation and Verification for Complex Logical Reasoning**|Hyun Ryu et.al.|[2410.08047](http://arxiv.org/abs/2410.08047)|**[link](https://github.com/Hyun-Ryu/clover)**|ICLR 2025 camera-ready version|
+|**2025-02-25**|**Divide and Translate: Compositional First-Order Logic Translation and Verification for Complex Logical Reasoning**|Hyun Ryu et.al.|[2410.08047](http://arxiv.org/abs/2410.08047)|**[link](https://github.com/Hyun-Ryu/clover)**|⭐ ICLR 2025 camera-ready version|
 |**2025-02-25**|**GraphIC: A Graph-Based In-Context Example Retrieval Model for Multi-Step Reasoning**|Jiale Fu et.al.|[2410.02203](http://arxiv.org/abs/2410.02203)|null|
 |**2025-02-25**|**Sphere Neural-Networks for Rational Reasoning**|Tiansi Dong et.al.|[2403.15297](http://arxiv.org/abs/2403.15297)|null|
 |**2025-02-24**|**Making LLMs Reason? The Intermediate Language Problem in Neurosymbolic Approaches**|Alexander Beiser et.al.|[2502.17216](http://arxiv.org/abs/2502.17216)|null|
@@ -165,12 +173,11 @@ _Last updated: 2025.04.08_
 |**2025-02-08**|**XiHeFusion: Harnessing Large Language Models for Science Communication in Nuclear Fusion**|Xiao Wang et.al.|[2502.05615](http://arxiv.org/abs/2502.05615)|null|
 |**2025-02-08**|**Efficient Rectification of Neuro-Symbolic Reasoning Inconsistencies by Abductive Reflection**|Wen-Chao Hu et.al.|[2412.08457](http://arxiv.org/abs/2412.08457)|null|
 |**2025-02-08**|**Can Transformers Reason Logically? A Study in SAT Solving**|Leyan Pan et.al.|[2410.07432](http://arxiv.org/abs/2410.07432)|null|
-|**2025-02-07**|**S$^2$-MAD: Breaking the Token Barrier to Enhance Multi-Agent Debate Efficiency**|Yuting Zeng et.al.|[2502.04790](http://arxiv.org/abs/2502.04790)|null|
 |**2025-02-07**|**Logic-of-Thought: Injecting Logic into Contexts for Full Reasoning in Large Language Models**|Tongxuan Liu et.al.|[2409.17539](http://arxiv.org/abs/2409.17539)|null|
 |**2025-02-06**|**Probing a Vision-Language-Action Model for Symbolic States and Integration into a Cognitive Architecture**|Hong Lu et.al.|[2502.04558](http://arxiv.org/abs/2502.04558)|null|
 |**2025-02-06**|**Frontend Diffusion: Empowering Self-Representation of Junior Researchers and Designers Through Agentic Workflows**|Zijian Ding et.al.|[2502.03788](http://arxiv.org/abs/2502.03788)|null|
 |**2025-02-06**|**Dolphin: A Programmable Framework for Scalable Neurosymbolic Learning**|Aaditya Naik et.al.|[2410.03348](http://arxiv.org/abs/2410.03348)|null|
-|**2025-02-06**|**Thought-Path Contrastive Learning via Premise-Oriented Data Augmentation for Logical Reading Comprehension**|Chenxu Wang et.al.|[2409.14495](http://arxiv.org/abs/2409.14495)|**[link](https://github.com/lalalamdbf/tpreasoner)**|⭐ Accepted by AAAI 2025|
+|**2025-02-06**|**Thought-Path Contrastive Learning via Premise-Oriented Data Augmentation for Logical Reading Comprehension**|Chenxu Wang et.al.|[2409.14495](http://arxiv.org/abs/2409.14495)|**[link](https://github.com/lalalamdbf/tpreasoner)**|Accepted by AAAI 2025|
 |**2025-02-05**|**A Scalable Approach to Probabilistic Neuro-Symbolic Verification**|Vasileios Manginas et.al.|[2502.03274](http://arxiv.org/abs/2502.03274)|null|
 |**2025-02-05**|**TableMaster: A Recipe to Advance Table Understanding with Language Models**|Lang Cao et.al.|[2501.19378](http://arxiv.org/abs/2501.19378)|null|
 |**2025-02-04**|**Artificial Intelligence and Legal Analysis: Implications for Legal Education and the Profession**|Lee Peoples et.al.|[2502.03487](http://arxiv.org/abs/2502.03487)|null|
@@ -204,7 +211,7 @@ _Last updated: 2025.04.08_
 |**2025-01-21**|**Assessing the Alignment of FOL Closeness Metrics with Human Judgement**|Ramya Keerthy Thatikonda et.al.|[2501.08613](http://arxiv.org/abs/2501.08613)|**[link](https://github.com/ramyakeerthy/alignmentfol)**||
 |**2025-01-20**|**Neural Probabilistic Circuits: Enabling Compositional and Interpretable Predictions through Logical Reasoning**|Weixin Chen et.al.|[2501.07021](http://arxiv.org/abs/2501.07021)|null|
 |**2025-01-19**|**Chain-of-Reasoning: Towards Unified Mathematical Reasoning in Large Language Models via a Multi-Paradigm Perspective**|Yiyao Yu et.al.|[2501.11110](http://arxiv.org/abs/2501.11110)|null|
-|**2025-01-17**|**Assessing and Enhancing the Robustness of Large Language Models with Task Structure Variations for Logical Reasoning**|Qiming Bao et.al.|[2310.09430](http://arxiv.org/abs/2310.09430)|**[link](https://github.com/strong-ai-lab/logical-and-abstract-reasoning)**|⭐ The short version (v3) was accepted for oral presentation at the   first LLM@IJCAI 2023 non-archival symposium, and the full version was   accept...|
+|**2025-01-17**|**Assessing and Enhancing the Robustness of Large Language Models with Task Structure Variations for Logical Reasoning**|Qiming Bao et.al.|[2310.09430](http://arxiv.org/abs/2310.09430)|**[link](https://github.com/strong-ai-lab/logical-and-abstract-reasoning)**|The short version (v3) was accepted for oral presentation at the   first LLM@IJCAI 2023 non-archival symposium, and the full version was   accepted...|
 |**2025-01-15**|**ANSR-DT: An Adaptive Neuro-Symbolic Learning and Reasoning Framework for Digital Twins**|Safayat Bin Hakim et.al.|[2501.08561](http://arxiv.org/abs/2501.08561)|**[link](https://github.com/sbhakim/ansr-dt)**||
 |**2025-01-15**|**Multimodal-to-Text Prompt Engineering in Large Language Models Using Feature Embeddings for GNSS Interference Characterization**|Harshith Manjunath et.al.|[2501.05079](http://arxiv.org/abs/2501.05079)|null|
 |**2025-01-15**|**Do Large Language Models Mirror Cognitive Language Processing?**|Yuqi Ren et.al.|[2402.18023](http://arxiv.org/abs/2402.18023)|null|
@@ -215,9 +222,9 @@ _Last updated: 2025.04.08_
 |**2025-01-09**|**Large Physics Models: Towards a collaborative approach with Large Language Models and Foundation Models**|Kristian G. Barman et.al.|[2501.05382](http://arxiv.org/abs/2501.05382)|null|
 |**2025-01-09**|**Developing a Foundation of Vector Symbolic Architectures Using Category Theory**|Nolan P Shaw et.al.|[2501.05368](http://arxiv.org/abs/2501.05368)|null|
 |**2025-01-08**|**LogicAD: Explainable Anomaly Detection via VLM-based Text Feature Extraction**|Er Jin et.al.|[2501.01767](http://arxiv.org/abs/2501.01767)|null|
-|**2025-01-07**|**Bongard-OpenWorld: Few-Shot Reasoning for Free-form Visual Concepts in the Real World**|Rujie Wu et.al.|[2310.10207](http://arxiv.org/abs/2310.10207)|**[link](https://github.com/joyjayng/Bongard-OpenWorld)**|Accepted to ICLR 2024|
+|**2025-01-07**|**Bongard-OpenWorld: Few-Shot Reasoning for Free-form Visual Concepts in the Real World**|Rujie Wu et.al.|[2310.10207](http://arxiv.org/abs/2310.10207)|**[link](https://github.com/joyjayng/Bongard-OpenWorld)**|⭐ Accepted to ICLR 2024|
 |**2025-01-06**|**SecBench: A Comprehensive Multi-Dimensional Benchmarking Dataset for LLMs in Cybersecurity**|Pengfei Jing et.al.|[2412.20787](http://arxiv.org/abs/2412.20787)|null|
-|**2025-01-06**|**Harnessing Large Language Models for Knowledge Graph Question Answering via Adaptive Multi-Aspect Retrieval-Augmentation**|Derong Xu et.al.|[2412.18537](http://arxiv.org/abs/2412.18537)|**[link](https://github.com/Applied-Machine-Learning-Lab/AMAR)**|⭐ Accepted by AAAI'2025|
+|**2025-01-06**|**Harnessing Large Language Models for Knowledge Graph Question Answering via Adaptive Multi-Aspect Retrieval-Augmentation**|Derong Xu et.al.|[2412.18537](http://arxiv.org/abs/2412.18537)|**[link](https://github.com/Applied-Machine-Learning-Lab/AMAR)**|Accepted by AAAI'2025|
 |**2025-01-05**|**KnowRA: Knowledge Retrieval Augmented Method for Document-level Relation Extraction with Comprehensive Reasoning Abilities**|Chengcheng Mai et.al.|[2501.00571](http://arxiv.org/abs/2501.00571)|null|
 |**2025-01-02**|**Large Language Model-Enhanced Symbolic Reasoning for Knowledge Base Completion**|Qiyuan He et.al.|[2501.01246](http://arxiv.org/abs/2501.01246)|null|
 |**2025-01-02**|**A Survey on Large Language Model Acceleration based on KV Cache Management**|Haoyang Li et.al.|[2412.19442](http://arxiv.org/abs/2412.19442)|**[link](https://github.com/treeai-lab/awesome-kv-cache-management)**||
@@ -485,7 +492,7 @@ _Last updated: 2025.04.08_
 |**2024-05-12**|**MathDivide: Improved mathematical reasoning by large language models**|Saksham Sahai Srivastava et.al.|[2405.13004](http://arxiv.org/abs/2405.13004)|null|
 |**2024-05-08**|**Logical Negation Augmenting and Debiasing for Prompt-based Methods**|Yitian Li et.al.|[2405.04872](http://arxiv.org/abs/2405.04872)|null|
 |**2024-05-08**|**From Batch to Stream: Automatic Generation of Online Algorithms**|Ziteng Wang et.al.|[2404.04743](http://arxiv.org/abs/2404.04743)|null|
-|**2024-05-08**|**Prompting Is All You Need: Automated Android Bug Replay with Large Language Models**|Sidong Feng et.al.|[2306.01987](http://arxiv.org/abs/2306.01987)|**[link](https://github.com/sidongfeng/adbgpt)**||
+|**2024-05-08**|**Prompting Is All You Need: Automated Android Bug Replay with Large Language Models**|Sidong Feng et.al.|[2306.01987](http://arxiv.org/abs/2306.01987)|**[link](https://github.com/sidongfeng/adbgpt)**|⭐ 46th International Conference on Software Engineering (ICSE 2024)|
 |**2024-05-06**|**Are Human Rules Necessary? Generating Reusable APIs with CoT Reasoning and In-Context Learning**|Yubo Mai et.al.|[2405.03509](http://arxiv.org/abs/2405.03509)|null|
 |**2024-05-05**|**Temporal Inductive Logic Reasoning over Hypergraphs**|Yuan Yang et.al.|[2206.05051](http://arxiv.org/abs/2206.05051)|**[link](https://github.com/gblackout/TILR)**||
 |**2024-04-29**|**SuperCLUE-Fin: Graded Fine-Grained Analysis of Chinese LLMs on Diverse Financial Tasks and Applications**|Liang Xu et.al.|[2404.19063](http://arxiv.org/abs/2404.19063)|null|
@@ -527,14 +534,14 @@ _Last updated: 2025.04.08_
 |**2024-03-20**|**HAE-RAE Bench: Evaluation of Korean Knowledge in Language Models**|Guijin Son et.al.|[2309.02706](http://arxiv.org/abs/2309.02706)|**[link](https://github.com/haetae-project/hae-rae-bench)**|Accepted at LREC-COLING 2024|
 |**2024-03-20**|**PaD: Program-aided Distillation Can Teach Small Models Reasoning Better than Chain-of-thought Fine-tuning**|Xuekai Zhu et.al.|[2305.13888](http://arxiv.org/abs/2305.13888)|**[link](https://github.com/xuekai-zhu/pad)**||
 |**2024-03-19**|**Enhancing Multi-Domain Automatic Short Answer Grading through an Explainable Neuro-Symbolic Pipeline**|Felix Künnecke et.al.|[2403.01811](http://arxiv.org/abs/2403.01811)|null|
-|**2024-03-17**|**COLEP: Certifiably Robust Learning-Reasoning Conformal Prediction via Probabilistic Circuits**|Mintong Kang et.al.|[2403.11348](http://arxiv.org/abs/2403.11348)|**[link](https://github.com/kangmintong/colep)**|Accepted to ICLR 2024|
+|**2024-03-17**|**COLEP: Certifiably Robust Learning-Reasoning Conformal Prediction via Probabilistic Circuits**|Mintong Kang et.al.|[2403.11348](http://arxiv.org/abs/2403.11348)|**[link](https://github.com/kangmintong/colep)**|⭐ Accepted to ICLR 2024|
 |**2024-03-17**|**Reasoning in Transformers -- Mitigating Spurious Correlations and Reasoning Shortcuts**|Daniel Enström et.al.|[2403.11314](http://arxiv.org/abs/2403.11314)|null|
 |**2024-03-17**|**LatEval: An Interactive LLMs Evaluation Benchmark with Incomplete Information from Lateral Thinking Puzzles**|Shulin Huang et.al.|[2308.10855](http://arxiv.org/abs/2308.10855)|**[link](https://github.com/thukelab/lateval)**|Accepted by LREC-COLING 2024|
 |**2024-03-15**|**Transforming Competition into Collaboration: The Revolutionary Role of Multi-Agent Systems and Language Models in Modern Organizations**|Carlos Jose Xavier Cruz et.al.|[2403.07769](http://arxiv.org/abs/2403.07769)|**[link](https://github.com/carlosxcruzcode/compet_colab_sma_llm)**||
 |**2024-03-14**|**xLP: Explainable Link Prediction for Master Data Management**|Balaji Ganesan et.al.|[2403.09806](http://arxiv.org/abs/2403.09806)|null|
 |**2024-03-14**|**Science Checker Reloaded: A Bidirectional Paradigm for Transparency and Logical Reasoning**|Loïc Rakotoson et.al.|[2402.13897](http://arxiv.org/abs/2402.13897)|null|
-|**2024-03-14**|**DyVal: Dynamic Evaluation of Large Language Models for Reasoning Tasks**|Kaijie Zhu et.al.|[2309.17167](http://arxiv.org/abs/2309.17167)|**[link](https://github.com/microsoft/promptbench)**||
-|**2024-03-09**|**Mastering Symbolic Operations: Augmenting Language Models with Compiled Neural Networks**|Yixuan Weng et.al.|[2304.01665](http://arxiv.org/abs/2304.01665)|**[link](https://github.com/wengsyx/neural-comprehension)**|Accepted in ICLR 2024|
+|**2024-03-14**|**DyVal: Dynamic Evaluation of Large Language Models for Reasoning Tasks**|Kaijie Zhu et.al.|[2309.17167](http://arxiv.org/abs/2309.17167)|**[link](https://github.com/microsoft/promptbench)**|⭐ ICLR 2024 spotlight; 38 pages; code is at aka.ms/dyval|
+|**2024-03-09**|**Mastering Symbolic Operations: Augmenting Language Models with Compiled Neural Networks**|Yixuan Weng et.al.|[2304.01665](http://arxiv.org/abs/2304.01665)|**[link](https://github.com/wengsyx/neural-comprehension)**|⭐ Accepted in ICLR 2024|
 |**2024-03-08**|**A Feature-based Generalizable Prediction Model for Both Perceptual and Abstract Reasoning**|Quan Do et.al.|[2403.05641](http://arxiv.org/abs/2403.05641)|**[link](https://github.com/qdo1010/SRPM_GPM)**||
 |**2024-03-06**|**Learning Guided Automated Reasoning: A Brief Survey**|Lasse Blaauwbroek et.al.|[2403.04017](http://arxiv.org/abs/2403.04017)|null|
 |**2024-03-06**|**Learning 3D object-centric representation through prediction**|John Day et.al.|[2403.03730](http://arxiv.org/abs/2403.03730)|null|
@@ -542,7 +549,7 @@ _Last updated: 2025.04.08_
 |**2024-03-05**|**Fuzzy Datalog$^\exists$ over Arbitrary t-Norms**|Matthias Lanzinger et.al.|[2403.02933](http://arxiv.org/abs/2403.02933)|null|
 |**2024-03-04**|**AS-ES Learning: Towards Efficient CoT Learning in Small Models**|Nuwa Xi et.al.|[2403.01969](http://arxiv.org/abs/2403.01969)|null|
 |**2024-03-02**|**Balancing Exploration and Exploitation in LLM using Soft RLLF for Enhanced Negation Understanding**|Ha-Thanh Nguyen et.al.|[2403.01185](http://arxiv.org/abs/2403.01185)|null|
-|**2024-03-01**|**Softened Symbol Grounding for Neuro-symbolic Systems**|Zenan Li et.al.|[2403.00323](http://arxiv.org/abs/2403.00323)|**[link](https://github.com/softwiser-group/soften-nesy-learning)**|Published as a conference paper at ICLR 2023. Code is available at   https://github.com/SoftWiser-group/Soften-NeSy-learning|
+|**2024-03-01**|**Softened Symbol Grounding for Neuro-symbolic Systems**|Zenan Li et.al.|[2403.00323](http://arxiv.org/abs/2403.00323)|**[link](https://github.com/softwiser-group/soften-nesy-learning)**|⭐ Published as a conference paper at ICLR 2023. Code is available at   https://github.com/SoftWiser-group/Soften-NeSy-learning|
 |**2024-02-29**|**Deciphering Digital Detectives: Understanding LLM Behaviors and Capabilities in Multi-Agent Mystery Games**|Dekun Wu et.al.|[2312.00746](http://arxiv.org/abs/2312.00746)|null|
 |**2024-02-28**|**Towards Generalist Prompting for Large Language Models by Mental Models**|Haoxiang Guan et.al.|[2402.18252](http://arxiv.org/abs/2402.18252)|null|
 |**2024-02-27**|**Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data**|KaShun Shum et.al.|[2302.12822](http://arxiv.org/abs/2302.12822)|**[link](https://github.com/shumkashun/automate-cot)**|⭐ EMNLP 2023|
@@ -558,7 +565,7 @@ _Last updated: 2025.04.08_
 |**2024-02-19**|**Do Large Language Models Understand Logic or Just Mimick Context?**|Junbing Yan et.al.|[2402.12091](http://arxiv.org/abs/2402.12091)|null|
 |**2024-02-16**|**Navigating the Dual Facets: A Comprehensive Evaluation of Sequential Memory Editing in Large Language Models**|Zihao Lin et.al.|[2402.11122](http://arxiv.org/abs/2402.11122)|null|
 |**2024-02-16**|**Logical Reasoning over Natural Language as Knowledge Representation: A Survey**|Zonglin Yang et.al.|[2303.12023](http://arxiv.org/abs/2303.12023)|**[link](https://github.com/zongliny/lrnl-bench)**||
-|**2024-02-14**|**LogicPrpBank: A Corpus for Logical Implication and Equivalence**|Zhexiong Liu et.al.|[2402.09609](http://arxiv.org/abs/2402.09609)|**[link](https://github.com/jzcs2018/ai4ed2024)**|⭐ In the 5th AI4ED Workshop, held in conjunction with The 38th AAAI   Conference on Artificial Intelligence, February 2024|
+|**2024-02-14**|**LogicPrpBank: A Corpus for Logical Implication and Equivalence**|Zhexiong Liu et.al.|[2402.09609](http://arxiv.org/abs/2402.09609)|**[link](https://github.com/jzcs2018/ai4ed2024)**|In the 5th AI4ED Workshop, held in conjunction with The 38th AAAI   Conference on Artificial Intelligence, February 2024|
 |**2024-02-14**|**LINC: A Neurosymbolic Approach for Logical Reasoning by Combining Language Models with First-Order Logic Provers**|Theo X. Olausson et.al.|[2310.15164](http://arxiv.org/abs/2310.15164)|**[link](https://github.com/benlipkin/linc)**|⭐ EMNLP Main 2023 (Outstanding Paper Award)|
 |**2024-02-13**|**Inference of Abstraction for a Unified Account of Symbolic Reasoning from Data**|Hiroyuki Kido et.al.|[2402.08646](http://arxiv.org/abs/2402.08646)|null|
 |**2024-02-12**|**Beyond LLMs: Advancing the Landscape of Complex Reasoning**|Jennifer Chu-Carroll et.al.|[2402.08064](http://arxiv.org/abs/2402.08064)|null|
@@ -574,11 +581,11 @@ _Last updated: 2025.04.08_
 |**2024-01-25**|**ConstraintChecker: A Plugin for Large Language Models to Reason on Commonsense Knowledge Bases**|Quyet V. Do et.al.|[2401.14003](http://arxiv.org/abs/2401.14003)|**[link](https://github.com/hkust-knowcomp/constraintchecker)**|Proceedings of EACL 2024|
 |**2024-01-24**|**Formal Logic Enabled Personalized Federated Learning Through Property Inference**|Ziyan An et.al.|[2401.07448](http://arxiv.org/abs/2401.07448)|null|
 |**2024-01-23**|**Deciphering Raw Data in Neuro-Symbolic Learning with Provable Guarantees**|Lue Tao et.al.|[2308.10487](http://arxiv.org/abs/2308.10487)|**[link](https://github.com/abductivelearning/abl-tl)**||
-|**2024-01-22**|**Revisiting Document-Level Relation Extraction with Context-Guided Link Prediction**|Monika Jain et.al.|[2401.11800](http://arxiv.org/abs/2401.11800)|**[link](https://github.com/kracr/document-level-relation-extraction)**|⭐ Accepted in AAAI 2024|
-|**2024-01-20**|**BadChain: Backdoor Chain-of-Thought Prompting for Large Language Models**|Zhen Xiang et.al.|[2401.12242](http://arxiv.org/abs/2401.12242)|**[link](https://github.com/django-jiang/badchain)**|Accepted to ICLR2024|
+|**2024-01-22**|**Revisiting Document-Level Relation Extraction with Context-Guided Link Prediction**|Monika Jain et.al.|[2401.11800](http://arxiv.org/abs/2401.11800)|**[link](https://github.com/kracr/document-level-relation-extraction)**|Accepted in AAAI 2024|
+|**2024-01-20**|**BadChain: Backdoor Chain-of-Thought Prompting for Large Language Models**|Zhen Xiang et.al.|[2401.12242](http://arxiv.org/abs/2401.12242)|**[link](https://github.com/django-jiang/badchain)**|⭐ Accepted to ICLR2024|
 |**2024-01-19**|**The Radiation Oncology NLP Database**|Zhengliang Liu et.al.|[2401.10995](http://arxiv.org/abs/2401.10995)|**[link](https://github.com/zl-liu/radiation-oncology-nlp-database)**||
-|**2024-01-19**|**Escape Sky-high Cost: Early-stopping Self-Consistency for Multi-step Reasoning**|Yiwei Li et.al.|[2401.10480](http://arxiv.org/abs/2401.10480)|**[link](https://github.com/yiwei98/esc)**||
-|**2024-01-17**|**Large Language Models Are Neurosymbolic Reasoners**|Meng Fang et.al.|[2401.09334](http://arxiv.org/abs/2401.09334)|**[link](https://github.com/hyintell/llmsymbolic)**|⭐ Accepted by AAAI 2024|
+|**2024-01-19**|**Escape Sky-high Cost: Early-stopping Self-Consistency for Multi-step Reasoning**|Yiwei Li et.al.|[2401.10480](http://arxiv.org/abs/2401.10480)|**[link](https://github.com/yiwei98/esc)**|⭐ ICLR 2024|
+|**2024-01-17**|**Large Language Models Are Neurosymbolic Reasoners**|Meng Fang et.al.|[2401.09334](http://arxiv.org/abs/2401.09334)|**[link](https://github.com/hyintell/llmsymbolic)**|Accepted by AAAI 2024|
 |**2024-01-07**|**Logical Assessment Formula and Its Principles for Evaluations with Inaccurate Ground-Truth Labels**|Yongquan Yang et.al.|[2110.11567](http://arxiv.org/abs/2110.11567)|null|
 |**2024-01-04**|**Handling Noisy Labels via One-Step Abductive Multi-Target Learning and Its Application to Helicobacter Pylori Segmentation**|Yongquan Yang et.al.|[2011.14956](http://arxiv.org/abs/2011.14956)|null|
 |**2024-01-02**|**From Statistical Relational to Neurosymbolic Artificial Intelligence: a Survey**|Giuseppe Marra et.al.|[2108.11451](http://arxiv.org/abs/2108.11451)|null|
@@ -658,7 +665,7 @@ _Last updated: 2025.04.08_
 |**2023-08-30**|**Deep Inductive Logic Programming meets Reinforcement Learning**|Andreas Bueff et.al.|[2308.16210](http://arxiv.org/abs/2308.16210)|null|
 |**2023-08-30**|**Understanding ProbLog as Probabilistic Argumentation**|Francesca Toni et.al.|[2308.15891](http://arxiv.org/abs/2308.15891)|null|
 |**2023-08-30**|**On the Potential of CLIP for Compositional Logical Reasoning**|Justin Brody et.al.|[2308.15887](http://arxiv.org/abs/2308.15887)|null|
-|**2023-08-26**|**Logical Message Passing Networks with One-hop Inference on Atomic Formulas**|Zihao Wang et.al.|[2301.08859](http://arxiv.org/abs/2301.08859)|**[link](https://github.com/hkust-knowcomp/lmpnn)**|Accepted by ICLR 2023. 20 pages, 4 figures, and 9 tables. Our   implementation can be found at https://github.com/HKUST-KnowComp/LMPNN .   update v...|
+|**2023-08-26**|**Logical Message Passing Networks with One-hop Inference on Atomic Formulas**|Zihao Wang et.al.|[2301.08859](http://arxiv.org/abs/2301.08859)|**[link](https://github.com/hkust-knowcomp/lmpnn)**|⭐ Accepted by ICLR 2023. 20 pages, 4 figures, and 9 tables. Our   implementation can be found at https://github.com/HKUST-KnowComp/LMPNN .   update...|
 |**2023-08-24**|**Logic-induced Diagnostic Reasoning for Semi-supervised Semantic Segmentation**|Chen Liang et.al.|[2308.12595](http://arxiv.org/abs/2308.12595)|null|
 |**2023-08-23**|**Domain Specific Question Answering Over Knowledge Graphs Using Logical Programming and Large Language Models**|Navid Madani et.al.|[2303.02206](http://arxiv.org/abs/2303.02206)|**[link](https://github.com/navidmdn/logic_based_qa)**||
 |**2023-08-18**|**How susceptible are LLMs to Logical Fallacies?**|Amirreza Payandeh et.al.|[2308.09853](http://arxiv.org/abs/2308.09853)|**[link](https://github.com/Amir-pyh/LOGICOM)**||
@@ -680,12 +687,12 @@ _Last updated: 2025.04.08_
 |**2023-07-23**|**Invalid Logic, Equivalent Gains: The Bizarreness of Reasoning in Language Model Prompting**|Rylan Schaeffer et.al.|[2307.10573](http://arxiv.org/abs/2307.10573)|null|
 |**2023-07-20**|**Tackling Universal Properties of Minimal Trap Spaces of Boolean Networks**|Sara Riva et.al.|[2305.02442](http://arxiv.org/abs/2305.02442)|**[link](https://github.com/bnediction/cegar-bonesis)**|Accepted at 21st International Conference on Computational Methods in   Systems Biology (CMSB 2023)|
 |**2023-07-20**|**Perceptron Theory Can Predict the Accuracy of Neural Networks**|Denis Kleyko et.al.|[2012.07881](http://arxiv.org/abs/2012.07881)|null|
-|**2023-07-18**|**Scalable Coupling of Deep Learning with Logical Reasoning**|Marianne Defresne et.al.|[2305.07617](http://arxiv.org/abs/2305.07617)|**[link](https://forgemia.inra.fr/marianne.defresne/emmental-pll)**|⭐ 10 pages, 2 figures, 6 tables. Published in IJCAI'2023 proceedings|
+|**2023-07-18**|**Scalable Coupling of Deep Learning with Logical Reasoning**|Marianne Defresne et.al.|[2305.07617](http://arxiv.org/abs/2305.07617)|**[link](https://forgemia.inra.fr/marianne.defresne/emmental-pll)**|10 pages, 2 figures, 6 tables. Published in IJCAI'2023 proceedings|
 |**2023-07-17**|**COLLIE: Systematic Construction of Constrained Text Generation Tasks**|Shunyu Yao et.al.|[2307.08689](http://arxiv.org/abs/2307.08689)|**[link](https://github.com/princeton-nlp/Collie)**||
 |**2023-07-17**|**Neurosymbolic AI for Reasoning on Biomedical Knowledge Graphs**|Lauren Nicole DeLong et.al.|[2307.08411](http://arxiv.org/abs/2307.08411)|null|
 |**2023-07-17**|**Automated scholarly paper review: Concepts, technologies, and challenges**|Jialiang Lin et.al.|[2111.07533](http://arxiv.org/abs/2111.07533)|null|
 |**2023-07-15**|**$\text{EFO}_{k}$-CQA: Towards Knowledge Graph Complex Query Answering beyond Set Operation**|Hang Yin et.al.|[2307.13701](http://arxiv.org/abs/2307.13701)|**[link](https://github.com/hkust-knowcomp/efok-cqa)**||
-|**2023-07-15**|**NeurASP: Embracing Neural Networks into Answer Set Programming**|Zhun Yang et.al.|[2307.07700](http://arxiv.org/abs/2307.07700)|**[link](https://github.com/azreasoners/NeurASP)**|⭐ 16 pages, 29th International Joint Conference on Artificial   Intelligence (IJCAI 2020). arXiv admin note: substantial text overlap with   arXiv:...|
+|**2023-07-15**|**NeurASP: Embracing Neural Networks into Answer Set Programming**|Zhun Yang et.al.|[2307.07700](http://arxiv.org/abs/2307.07700)|**[link](https://github.com/azreasoners/NeurASP)**|16 pages, 29th International Joint Conference on Artificial   Intelligence (IJCAI 2020). arXiv admin note: substantial text overlap with   arXiv:20...|
 |**2023-07-15**|**Unifying Structure Reasoning and Language Model Pre-training for Complex Reasoning**|Siyuan Wang et.al.|[2301.08913](http://arxiv.org/abs/2301.08913)|null|
 |**2023-07-14**|**Reasoning with belief functions over Belnap--Dunn logic**|Marta Bílková et.al.|[2203.01060](http://arxiv.org/abs/2203.01060)|null|
 |**2023-07-11**|**Neural-Symbolic Recommendation with Graph-Enhanced Information**|Bang Chen et.al.|[2307.05036](http://arxiv.org/abs/2307.05036)|**[link](https://github.com/hanzo2020/gnnlr)**||
@@ -737,11 +744,11 @@ _Last updated: 2025.04.08_
 |**2023-04-20**|**FLEX: Feature-Logic Embedding Framework for CompleX Knowledge Graph Reasoning**|Xueyuan Lin et.al.|[2205.11039](http://arxiv.org/abs/2205.11039)|**[link](https://github.com/LinXueyuanStdio/FLEX)**||
 |**2023-04-19**|**Discourse-Aware Graph Networks for Textual Logical Reasoning**|Yinya Huang et.al.|[2207.01450](http://arxiv.org/abs/2207.01450)|null|
 |**2023-04-12**|**Improving Certified Robustness via Statistical Learning with Logical Reasoning**|Zhuolin Yang et.al.|[2003.00120](http://arxiv.org/abs/2003.00120)|**[link](https://github.com/sensing-reasoning/sensing-reasoning-pipeline)**|⭐ Accepted by 36th Conference on Neural Information Processing Systems   (NeurIPS 2022)|
-|**2023-04-11**|**Decomposed Prompting: A Modular Approach for Solving Complex Tasks**|Tushar Khot et.al.|[2210.02406](http://arxiv.org/abs/2210.02406)|**[link](https://github.com/allenai/decomp)**||
+|**2023-04-11**|**Decomposed Prompting: A Modular Approach for Solving Complex Tasks**|Tushar Khot et.al.|[2210.02406](http://arxiv.org/abs/2210.02406)|**[link](https://github.com/allenai/decomp)**|⭐ ICLR'23 Camera Ready|
 |**2023-04-10**|**Make flows small again: revisiting the flow framework**|Roland Meyer et.al.|[2304.04886](http://arxiv.org/abs/2304.04886)|null|
 |**2023-04-10**|**Scallop: A Language for Neurosymbolic Programming**|Ziyang Li et.al.|[2304.04812](http://arxiv.org/abs/2304.04812)|null|
-|**2023-04-08**|**Modular Control Plane Verification via Temporal Invariants**|Timothy Alberdingk Thijm et.al.|[2204.10303](http://arxiv.org/abs/2204.10303)|**[link](https://github.com/alberdingk-thijm/timepiece)**|27 pages (22 pages body, ~3 pages references, ~1 page proofs), 14   figures, accepted to PLDI 2023|
-|**2023-03-31**|**NQE: N-ary Query Embedding for Complex Query Answering over Hyper-Relational Knowledge Graphs**|Haoran Luo et.al.|[2211.13469](http://arxiv.org/abs/2211.13469)|**[link](https://github.com/lhrlab/nqe)**|⭐ Accepted by AAAI 2023|
+|**2023-04-08**|**Modular Control Plane Verification via Temporal Invariants**|Timothy Alberdingk Thijm et.al.|[2204.10303](http://arxiv.org/abs/2204.10303)|**[link](https://github.com/alberdingk-thijm/timepiece)**|⭐ 27 pages (22 pages body, ~3 pages references, ~1 page proofs), 14   figures, accepted to PLDI 2023|
+|**2023-03-31**|**NQE: N-ary Query Embedding for Complex Query Answering over Hyper-Relational Knowledge Graphs**|Haoran Luo et.al.|[2211.13469](http://arxiv.org/abs/2211.13469)|**[link](https://github.com/lhrlab/nqe)**|Accepted by AAAI 2023|
 |**2023-03-28**|**Adaptive Scaffolding in Block-Based Programming via Synthesizing New Tasks as Pop Quizzes**|Ahana Ghosh et.al.|[2303.16359](http://arxiv.org/abs/2303.16359)|**[link](https://github.com/machine-teaching-group/aied2022_pquizsyn_code)**|Preprint. Accepted as a paper at the AIED'22 conference|
 |**2023-03-26**|**Neural Graph Reasoning: Complex Logical Query Answering Meets Graph Databases**|Hongyu Ren et.al.|[2303.14617](http://arxiv.org/abs/2303.14617)|**[link](https://github.com/neuralgraphdatabases/awesome-logical-query)**||
 |**2023-03-23**|**Efficient Symbolic Reasoning for Neural-Network Verification**|Zi Wang et.al.|[2303.13588](http://arxiv.org/abs/2303.13588)|null|
@@ -750,13 +757,13 @@ _Last updated: 2025.04.08_
 |**2023-03-15**|**Generative Logic with Time: Beyond Logical Consistency and Statistical Possibility**|Hiroyuki Kido et.al.|[2301.08509](http://arxiv.org/abs/2301.08509)|null|
 |**2023-03-13**|**NeuroQL: A Neuro-Symbolic Language and Dataset for Inter-Subjective Reasoning**|Nick Papoulias et.al.|[2303.07146](http://arxiv.org/abs/2303.07146)|null|
 |**2023-03-10**|**Learning Neuro-symbolic Programs for Language Guided Robot Manipulation**|Namasivayam Kalithasan et.al.|[2211.06652](http://arxiv.org/abs/2211.06652)|null|
-|**2023-03-09**|**Weakly Supervised Knowledge Transfer with Probabilistic Logical Reasoning for Object Detection**|Martijn Oldenhof et.al.|[2303.05148](http://arxiv.org/abs/2303.05148)|**[link](https://github.com/molden/probkt)**|Accepted to ICLR 2023|
+|**2023-03-09**|**Weakly Supervised Knowledge Transfer with Probabilistic Logical Reasoning for Object Detection**|Martijn Oldenhof et.al.|[2303.05148](http://arxiv.org/abs/2303.05148)|**[link](https://github.com/molden/probkt)**|⭐ Accepted to ICLR 2023|
 |**2023-03-07**|**Connecting the Dots: Context-Driven Motion Planning Using Symbolic Reasoning**|Chris van der Ploeg et.al.|[2303.04191](http://arxiv.org/abs/2303.04191)|null|
-|**2023-03-04**|**PyReason: Software for Open World Temporal Logic**|Dyuman Aditya et.al.|[2302.13482](http://arxiv.org/abs/2302.13482)|**[link](https://github.com/lab-v2/pyreason)**|⭐ Equal contributions from first two authors. Accepted at 2023 AAAI   Spring Symposium on Challenges Requiring the Combination of Machine Learning ...|
+|**2023-03-04**|**PyReason: Software for Open World Temporal Logic**|Dyuman Aditya et.al.|[2302.13482](http://arxiv.org/abs/2302.13482)|**[link](https://github.com/lab-v2/pyreason)**|Equal contributions from first two authors. Accepted at 2023 AAAI   Spring Symposium on Challenges Requiring the Combination of Machine Learning   ...|
 |**2023-03-03**|**A Neuro-vector-symbolic Architecture for Solving Raven's Progressive Matrices**|Michael Hersche et.al.|[2203.04571](http://arxiv.org/abs/2203.04571)|**[link](https://github.com/ibm/neuro-vector-symbolic-architectures)**||
 |**2023-03-02**|**Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning**|Pan Lu et.al.|[2209.14610](http://arxiv.org/abs/2209.14610)|null|
 |**2023-02-23**|**Extensions to Generalized Annotated Logic and an Equivalent Neural Architecture**|Paulo Shakarian et.al.|[2302.12195](http://arxiv.org/abs/2302.12195)|null|
-|**2023-02-22**|**Weakly Supervised Explainable Phrasal Reasoning with Neural Fuzzy Logic**|Zijun Wu et.al.|[2109.08927](http://arxiv.org/abs/2109.08927)|**[link](https://github.com/manga-uofa/epr)**|Accepted by ICLR 2023|
+|**2023-02-22**|**Weakly Supervised Explainable Phrasal Reasoning with Neural Fuzzy Logic**|Zijun Wu et.al.|[2109.08927](http://arxiv.org/abs/2109.08927)|**[link](https://github.com/manga-uofa/epr)**|⭐ Accepted by ICLR 2023|
 |**2023-02-19**|**Learning Language Representations with Logical Inductive Bias**|Jianshu Chen et.al.|[2302.09458](http://arxiv.org/abs/2302.09458)|null|
 |**2023-02-16**|**Empirical Investigation of Neural Symbolic Reasoning Strategies**|Yoichi Aoki et.al.|[2302.08148](http://arxiv.org/abs/2302.08148)|**[link](https://github.com/ao1neko/reasoning-strategy)**|This paper is accepted as the findings at EACL 2023, and the earlier   version (non-archival) of this work got the Best Paper Award in the Student ...|
 |**2023-02-16**|**Teaching Pretrained Models with Commonsense Reasoning: A Preliminary KB-Based Approach**|Shiyang Li et.al.|[1909.09743](http://arxiv.org/abs/1909.09743)|null|
@@ -815,7 +822,7 @@ _Last updated: 2025.04.08_
 |**2022-09-19**|**Neural-Symbolic Entangled Framework for Complex Query Answering**|Zezhong Xu et.al.|[2209.08779](http://arxiv.org/abs/2209.08779)|null|
 |**2022-09-19**|**Knowledge-based Analogical Reasoning in Neuro-symbolic Latent Spaces**|Vishwa Shah et.al.|[2209.08750](http://arxiv.org/abs/2209.08750)|null|
 |**2022-09-09**|**Explainability Is in the Mind of the Beholder: Establishing the Foundations of Explainable Artificial Intelligence**|Kacper Sokol et.al.|[2112.14466](http://arxiv.org/abs/2112.14466)|null|
-|**2022-09-06**|**Query Embedding on Hyper-relational Knowledge Graphs**|Dimitrios Alivanistos et.al.|[2106.08166](http://arxiv.org/abs/2106.08166)|**[link](https://github.com/DimitrisAlivas/StarQE)**||
+|**2022-09-06**|**Query Embedding on Hyper-relational Knowledge Graphs**|Dimitrios Alivanistos et.al.|[2106.08166](http://arxiv.org/abs/2106.08166)|**[link](https://github.com/DimitrisAlivas/StarQE)**|⭐ Presented at ICLR2022. https://openreview.net/forum?id=4rLw09TgRw9|
 |**2022-09-06**|**Neural Termination Analysis**|Mirco Giacobbe et.al.|[2102.03824](http://arxiv.org/abs/2102.03824)|null|
 |**2022-08-29**|**LogicRank: Logic Induced Reranking for Generative Text-to-Image Systems**|Björn Deiseroth et.al.|[2208.13518](http://arxiv.org/abs/2208.13518)|null|
 |**2022-08-29**|**Time-aware Self-Attention Meets Logic Reasoning in Recommender Systems**|Zhijian Luo et.al.|[2208.13330](http://arxiv.org/abs/2208.13330)|null|
@@ -924,13 +931,13 @@ _Last updated: 2025.04.08_
 |**2021-05-29**|**Log2NS: Enhancing Deep Learning Based Analysis of Logs With Formal to Prevent Survivorship Bias**|Charanraj Thimmisetty et.al.|[2105.14149](http://arxiv.org/abs/2105.14149)|null|
 |**2021-05-28**|**Path-based knowledge reasoning with textual semantic information for medical knowledge graph completion**|Yinyu Lan et.al.|[2105.13074](http://arxiv.org/abs/2105.13074)|null|
 |**2021-05-21**|**Probabilistic Sufficient Explanations**|Eric Wang et.al.|[2105.10118](http://arxiv.org/abs/2105.10118)|**[link](https://github.com/UCLA-StarAI/SufficientExplanations)**||
-|**2021-05-20**|**Abductive Knowledge Induction From Raw Data**|Wang-Zhou Dai et.al.|[2010.03514](http://arxiv.org/abs/2010.03514)|**[link](https://github.com/AbductiveLearning/Meta_Abd)**|⭐ Accepted by IJCAI-21|
+|**2021-05-20**|**Abductive Knowledge Induction From Raw Data**|Wang-Zhou Dai et.al.|[2010.03514](http://arxiv.org/abs/2010.03514)|**[link](https://github.com/AbductiveLearning/Meta_Abd)**|Accepted by IJCAI-21|
 |**2021-05-14**|**Neural-Symbolic Commonsense Reasoner with Relation Predictors**|Farhad Moghimifar et.al.|[2105.06717](http://arxiv.org/abs/2105.06717)|null|
 |**2021-05-14**|**Abstract Spatial-Temporal Reasoning via Probabilistic Abduction and Execution**|Chi Zhang et.al.|[2103.14230](http://arxiv.org/abs/2103.14230)|null|
 |**2021-05-08**|**Logic-Driven Context Extension and Data Augmentation for Logical Reasoning of Text**|Siyuan Wang et.al.|[2105.03659](http://arxiv.org/abs/2105.03659)|**[link](https://github.com/WangsyGit/LReasoner)**||
 |**2021-05-03**|**Neural Collaborative Reasoning**|Hanxiong Chen et.al.|[2005.08129](http://arxiv.org/abs/2005.08129)|**[link](https://github.com/rutgerswiselab/NCR)**|Accepted to the 30th Web Conference (WWW 2021)|
 |**2021-04-28**|**Generating Bug-Fixes Using Pretrained Transformers**|Dawn Drain et.al.|[2104.07896](http://arxiv.org/abs/2104.07896)|null|
-|**2021-04-26**|**Neural Sequence-to-grid Module for Learning Symbolic Rules**|Segwang Kim et.al.|[2101.04921](http://arxiv.org/abs/2101.04921)|**[link](https://github.com/SegwangKim/neural-seq2grid-module)**|⭐ 9 pages, 9 figures, AAAI 2021|
+|**2021-04-26**|**Neural Sequence-to-grid Module for Learning Symbolic Rules**|Segwang Kim et.al.|[2101.04921](http://arxiv.org/abs/2101.04921)|**[link](https://github.com/SegwangKim/neural-seq2grid-module)**|9 pages, 9 figures, AAAI 2021|
 |**2021-04-22**|**Deciding SHACL Shape Containment through Description Logics Reasoning (Extended Version)**|Martin Leinberger et.al.|[2008.13603](http://arxiv.org/abs/2008.13603)|null|
 |**2021-04-16**|**Faithfully Explainable Recommendation via Neural Logic Reasoning**|Yaxin Zhu et.al.|[2104.07869](http://arxiv.org/abs/2104.07869)|**[link](https://github.com/orcax/LOGER)**|Accepted in NAACL 2021|
 |**2021-04-08**|**DAGN: Discourse-Aware Graph Network for Logical Reasoning**|Yinya Huang et.al.|[2103.14349](http://arxiv.org/abs/2103.14349)|**[link](https://github.com/Eleanor-H/DAGN)**|Accepted by NAACL 2021|
@@ -940,7 +947,7 @@ _Last updated: 2025.04.08_
 |**2021-03-30**|**A Closer Look at the Robustness of Vision-and-Language Pre-trained Models**|Linjie Li et.al.|[2012.08673](http://arxiv.org/abs/2012.08673)|null|
 |**2021-03-04**|**BLOCKEYE: Hunting For DeFi Attacks on Blockchain**|Bin Wang et.al.|[2103.02873](http://arxiv.org/abs/2103.02873)|null|
 |**2021-03-03**|**Extracting Optimal Explanations for Ensemble Trees via Logical Reasoning**|Gelin Zhang et.al.|[2103.02191](http://arxiv.org/abs/2103.02191)|null|
-|**2021-03-02**|**Differentiable Inductive Logic Programming for Structured Examples**|Hikaru Shindo et.al.|[2103.01719](http://arxiv.org/abs/2103.01719)|**[link](https://github.com/hkrsnd/dilp-st)**|⭐ Accepted by AAAI2021|
+|**2021-03-02**|**Differentiable Inductive Logic Programming for Structured Examples**|Hikaru Shindo et.al.|[2103.01719](http://arxiv.org/abs/2103.01719)|**[link](https://github.com/hkrsnd/dilp-st)**|Accepted by AAAI2021|
 |**2021-02-09**|**The Cognition of Counterexample in Mathematics Students**|Shannon Ezzat et.al.|[2102.05171](http://arxiv.org/abs/2102.05171)|null|
 |**2021-01-28**|**Weakly Supervised Neuro-Symbolic Module Networks for Numerical Reasoning**|Amrita Saha et.al.|[2101.11802](http://arxiv.org/abs/2101.11802)|null|
 |**2021-01-27**|**Bayes Meets Entailment and Prediction: Commonsense Reasoning with Non-monotonicity, Paraconsistency and Predictive Accuracy**|Hiroyuki Kido et.al.|[2012.08479](http://arxiv.org/abs/2012.08479)|null|
@@ -963,7 +970,7 @@ _Last updated: 2025.04.08_
 |**2020-09-22**|**Extending Answer Set Programs with Neural Networks**|Zhun Yang et.al.|[2009.10256](http://arxiv.org/abs/2009.10256)|null|
 |**2020-09-19**|**Proceedings 36th International Conference on Logic Programming (Technical Communications)**|Francesco Ricca et.al.|[2009.09158](http://arxiv.org/abs/2009.09158)|null|
 |**2020-09-14**|**Variable Binding for Sparse Distributed Representations: Theory and Applications**|E. Paxon Frady et.al.|[2009.06734](http://arxiv.org/abs/2009.06734)|null|
-|**2020-08-22**|**ReClor: A Reading Comprehension Dataset Requiring Logical Reasoning**|Weihao Yu et.al.|[2002.04326](http://arxiv.org/abs/2002.04326)|**[link](https://github.com/yuweihao/reclor)**||
+|**2020-08-22**|**ReClor: A Reading Comprehension Dataset Requiring Logical Reasoning**|Weihao Yu et.al.|[2002.04326](http://arxiv.org/abs/2002.04326)|**[link](https://github.com/yuweihao/reclor)**|⭐ ICLR 2020 paper. Project page: http://whyu.me/reclor/|
 |**2020-08-20**|**Neural Logic Reasoning**|Shaoyun Shi et.al.|[2008.09514](http://arxiv.org/abs/2008.09514)|**[link](https://github.com/rutgerswiselab/NLR)**|Accepted to ACM CIKM 2020. arXiv admin note: substantial text overlap   with arXiv:1910.08629|
 |**2020-08-12**|**Mathematical Reasoning via Self-supervised Skip-tree Training**|Markus N. Rabe et.al.|[2006.04757](http://arxiv.org/abs/2006.04757)|null|
 |**2020-08-04**|**Semantic based model of Conceptual Work Products for formal verification of complex interactive systems**|Mohcine Madkour et.al.|[2008.01623](http://arxiv.org/abs/2008.01623)|null|
@@ -973,13 +980,13 @@ _Last updated: 2025.04.08_
 |**2020-07-22**|**Consciousness and Automated Reasoning**|Ulrike Barthelmeß et.al.|[2001.09442](http://arxiv.org/abs/2001.09442)|null|
 |**2020-07-20**|**Learning Syllogism with Euler Neural-Networks**|Tiansi Dong et.al.|[2007.07320](http://arxiv.org/abs/2007.07320)|null|
 |**2020-07-18**|**Mapping computational thinking mindsets between educational levels with cognitive network science**|Massimo Stella et.al.|[2007.09402](http://arxiv.org/abs/2007.09402)|null|
-|**2020-07-16**|**LogiQA: A Challenge Dataset for Machine Reading Comprehension with Logical Reasoning**|Jian Liu et.al.|[2007.08124](http://arxiv.org/abs/2007.08124)|**[link](https://github.com/lgw863/LogiQA-dataset)**|⭐ Accepted by IJCAI2020|
+|**2020-07-16**|**LogiQA: A Challenge Dataset for Machine Reading Comprehension with Logical Reasoning**|Jian Liu et.al.|[2007.08124](http://arxiv.org/abs/2007.08124)|**[link](https://github.com/lgw863/LogiQA-dataset)**|Accepted by IJCAI2020|
 |**2020-07-10**|**Multi-Granularity Modularized Network for Abstract Visual Reasoning**|Xiangru Tang et.al.|[2007.04670](http://arxiv.org/abs/2007.04670)|null|
 |**2020-07-07**|**Resonator networks for factoring distributed representations of data structures**|E. Paxon Frady et.al.|[2007.03748](http://arxiv.org/abs/2007.03748)|null|
 |**2020-07-07**|**Computer-Aided Personalized Education**|Rajeev Alur et.al.|[2007.03704](http://arxiv.org/abs/2007.03704)|null|
 |**2020-07-02**|**Medical idioms for clinical Bayesian network development**|Evangelia Kyrimi et.al.|[2007.00364](http://arxiv.org/abs/2007.00364)|null|
 |**2020-06-23**|**Logical Neural Networks**|Ryan Riegel et.al.|[2006.13155](http://arxiv.org/abs/2006.13155)|**[link](https://github.com/IBM/LNN)**|⭐ 10 pages (incl. references), 38 pages supplementary, 7 figures, 9   tables, 6 algorithms. In submission to NeurIPS 2020|
-|**2020-06-22**|**ReCO: A Large Scale Chinese Reading Comprehension Dataset on Opinion**|BingningWang et.al.|[2006.12146](http://arxiv.org/abs/2006.12146)|**[link](https://github.com/benywon/ReCO)**|⭐ AAAI-2020 camera ready|
+|**2020-06-22**|**ReCO: A Large Scale Chinese Reading Comprehension Dataset on Opinion**|BingningWang et.al.|[2006.12146](http://arxiv.org/abs/2006.12146)|**[link](https://github.com/benywon/ReCO)**|AAAI-2020 camera ready|
 |**2020-06-14**|**A (Simplified) Supreme Being Necessarily Exists, says the Computer: Computationally Explored Variants of Gödel's Ontological Argument**|Christoph Benzmüller et.al.|[2001.04701](http://arxiv.org/abs/2001.04701)|null|
 |**2020-06-14**|**TabFact: A Large-scale Dataset for Table-based Fact Verification**|Wenhu Chen et.al.|[1909.02164](http://arxiv.org/abs/1909.02164)|**[link](https://github.com/wenhuchen/Table-Fact-Checking)**|Accepted to ICLR 2020, 17 pages, 15 figures. Main paper has 9 pages|
 |**2020-06-08**|**Global Robustness Verification Networks**|Weidi Sun et.al.|[2006.04403](http://arxiv.org/abs/2006.04403)|null|
@@ -993,7 +1000,7 @@ _Last updated: 2025.04.08_
 |**2020-02-26**|**A neural network model of perception and reasoning**|Paul J. Blazek et.al.|[2002.11319](http://arxiv.org/abs/2002.11319)|null|
 |**2020-02-24**|**Symbolic Learning and Reasoning with Noisy Data for Probabilistic Anchoring**|Pedro Zuidberg Dos Martires et.al.|[2002.10373](http://arxiv.org/abs/2002.10373)|null|
 |**2020-02-24**|**Cognitive Argumentation and the Suppression Task**|Emmanuelle-Anna Dietz Saldanha et.al.|[2002.10149](http://arxiv.org/abs/2002.10149)|null|
-|**2020-02-15**|**Neural Module Networks for Reasoning over Text**|Nitish Gupta et.al.|[1912.04971](http://arxiv.org/abs/1912.04971)|**[link](https://github.com/nitishgupta/nmn-drop)**|Published in ICLR 2020 (International Conference on Learning   Representations, 2020)|
+|**2020-02-15**|**Neural Module Networks for Reasoning over Text**|Nitish Gupta et.al.|[1912.04971](http://arxiv.org/abs/1912.04971)|**[link](https://github.com/nitishgupta/nmn-drop)**|⭐ Published in ICLR 2020 (International Conference on Learning   Representations, 2020)|
 |**2020-02-12**|**HypoML: Visual Analysis for Hypothesis-based Evaluation of Machine Learning Models**|Qianwen Wang et.al.|[2002.05271](http://arxiv.org/abs/2002.05271)|null|
 |**2020-02-06**|**Relational Neural Machines**|Giuseppe Marra et.al.|[2002.02193](http://arxiv.org/abs/2002.02193)|null|
 |**2020-02-04**|**Efficient Probabilistic Logic Reasoning with Graph Neural Networks**|Yuyu Zhang et.al.|[2001.11850](http://arxiv.org/abs/2001.11850)|**[link](https://github.com/expressGNN/ExpressGNN)**||
@@ -1002,7 +1009,7 @@ _Last updated: 2025.04.08_
 |**2019-11-27**|**JEC-QA: A Legal-Domain Question Answering Dataset**|Haoxi Zhong et.al.|[1911.12011](http://arxiv.org/abs/1911.12011)|null|
 |**2019-11-26**|**Logical Interpretations of Autoencoders**|Anton Fuxjaeger et.al.|[1911.11629](http://arxiv.org/abs/1911.11629)|null|
 |**2019-11-21**|**Teaching Perception**|Jonathan Connell et.al.|[1911.11620](http://arxiv.org/abs/1911.11620)|null|
-|**2019-11-19**|**MMM: Multi-stage Multi-task Learning for Multi-choice Reading Comprehension**|Di Jin et.al.|[1910.00458](http://arxiv.org/abs/1910.00458)|**[link](https://github.com/jind11/MMM-MCQA)**|⭐ Accepted by AAAI 2020|
+|**2019-11-19**|**MMM: Multi-stage Multi-task Learning for Multi-choice Reading Comprehension**|Di Jin et.al.|[1910.00458](http://arxiv.org/abs/1910.00458)|**[link](https://github.com/jind11/MMM-MCQA)**|Accepted by AAAI 2020|
 |**2019-10-29**|**A novel fuzzy logic-based metric for audio quality assessment: Objective audio quality assessment**|Luis F. Abanto-Leon et.al.|[1910.13571](http://arxiv.org/abs/1910.13571)|null|
 |**2019-10-17**|**Neural Logic Networks**|Shaoyun Shi et.al.|[1910.08629](http://arxiv.org/abs/1910.08629)|null|
 |**2019-09-27**|**Graph Neural Reasoning May Fail in Certifying Boolean Unsatisfiability**|Ziliang Chen et.al.|[1909.11588](http://arxiv.org/abs/1909.11588)|null|
